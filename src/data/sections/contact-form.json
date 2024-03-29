@@ -1,0 +1,26 @@
+{
+    "subtitle": "Find Your Answers Here",
+    "title": "Get in Touch",
+    "items": [
+        {
+            "title": "What types of remodeling projects do you specialize in?",
+            "text": "We specialize in a wide range of remodeling projects including kitchen renovations, bathroom upgrades, basement finishing, room additions, and whole-house remodeling."
+        },
+        {
+            "title": "How long will my remodeling project take?",
+            "text": "The timeline for your project depends on various factors such as the scope of work, size of the project, and any unforeseen challenges. We'll provide you with a detailed timeline during the initial consultation and keep you updated throughout the process."
+        },
+        {
+            "title": "Do you handle the permit process?",
+            "text": "Yes, we take care of obtaining all necessary permits for your project to ensure it meets local building codes and regulations. Our team will handle the paperwork and coordinate with the relevant authorities."
+        },
+        {
+            "title": "Can I make changes to the project once it has started?",
+            "text": "While we understand that adjustments may be necessary, it's important to discuss any changes with us as soon as possible. Depending on the stage of the project, changes may impact the timeline and budget, but we'll work with you to find the best solution."
+        },
+        {
+            "title": "What kind of warranties do you offer on your work?",
+            "text": "We stand behind the quality of our workmanship and materials. Depending on the type of project, we offer warranties to ensure your satisfaction. We'll provide you with all warranty information specific to your project before we begin work."
+        }
+    ]
+}

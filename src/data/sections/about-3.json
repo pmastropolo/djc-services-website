@@ -1,0 +1,24 @@
+{
+    "title": "Construction & Remodeling Experts",
+    "description": "Transform your space with DJCservices. From interior remodeling to exterior upgrades and expert construction services, we bring your vision to life.",
+    "items": [
+        {
+            "image": "/img/interior-design.png",
+            "title": "Interior Remodeling",
+            "text": "Revitalize your home's interior with our bespoke remodeling services.",
+            "link": "/services"
+        },
+        {
+            "image": "/img/exterior-design.png",
+            "title": "Exterior Remodeling",
+            "text": "Enhance your outdoor living spaces with our expert exterior remodeling solutions.",
+            "link": "/services"
+        },
+        {
+            "image": "/img/new-build-construction.png",
+            "title": "Construction",
+            "text": "Build with confidence - from new homes to commercial projects, our experienced team delivers superior results.",
+            "link": "/services"
+        }
+    ]
+}

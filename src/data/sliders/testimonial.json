@@ -1,0 +1,25 @@
+{
+    "subtitle": "Testimonials",
+    "title":  "Reviews",
+    "image": {
+        "url": "/img/e.png",
+        "alt": "Client Images"
+    },
+    "items": [
+        {
+            "name": "Sean O'Day",
+            "role": "Helena, AL",
+            "text": "This has to be one of the Best Companies in Alabama, Be Sure to Call DJCservices LLC for any remodeling Jobs "
+        },
+        {
+            "name": "William Carlisle",
+            "role": "Helena, AL",
+            "text": "They do great custom decks and showers highly recommend."
+        },
+        {
+            "name": "Roger Keene",
+            "role": "Helena, AL",
+            "text": "Dennis is fantastic and does quality work. He is very responsive and reliable. Sunday I had a water pipe bust 30 minutes before I needed to leave for the airport. I called Dennis and he was there and had it fixed before I needed to leave."
+        }
+    ]
+}

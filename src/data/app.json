@@ -1,0 +1,113 @@
+{
+    "settings": {
+      "siteName": "DJCservices LLC",
+      "preloader": {
+        "image": "/img/brand.png",
+        "alt": "DJCservices Brand Logo"
+      },
+      "formspreeURL": "https://formspree.io/f/your_api_key",
+      "mailchimp": {
+        "url": "",
+        "key": ""
+      }
+    },
+    "header": {
+      "logo": {
+        "image": "/img/brand.png",
+        "alt": "DJCservices Brand Logo"
+      },
+      "menu": [
+        {
+          "label": "Home",
+          "link": "/",
+          "children": []
+        },
+        {
+          "label": "About",
+          "link": "/about",
+          "children": [
+            {
+              "label": "About DJCservices",
+              "link": "/about",
+              "children": []
+            },
+            {
+              "label": "Core Values",
+              "link": "/core-values",
+              "children": []
+            },
+            {
+                "label": "Past Projects",
+                "link": "/projects-2",
+                "children": []
+              }
+          ]
+        },
+        {
+          "label": "Services",
+          "link": "/services",
+          "children": [
+            {
+              "label": "All Services",
+              "link": "/services",
+              "children": []
+            },
+            {
+              "label": "Bathroom Renovation",
+              "link": "/services/Bathroom-renovation",
+              "children": []
+            },
+            {
+              "label": "Carpentry",
+              "link": "/services/Carpentry",
+              "children": []
+            },
+            {
+              "label": "Deck & Patio",
+              "link": "/services/Deck-and-patio",
+              "children": []
+            },
+            {
+              "label": "Flooring",
+              "link": "/services/Flooring",
+              "children": []
+            },
+            {
+              "label": "Kitchen",
+              "link": "/services/Kitchen",
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "Blog",
+          "link": "/blog",
+          "children": []
+        },
+        {
+          "label": "Contact",
+          "link": "/contact",
+          "children": []
+        }
+      ]
+    },
+    "footer": {
+      "logo": {
+        "image": "/img/y.png",
+        "alt": "DJCservices Brand Logo"
+      },
+      "info": {
+        "address": "Helena AL",
+        "tel": "(205) 337-3384",
+        "email": "djc.services.llc.al@gmail.com"
+      },
+      "copy": "DJCservices LLC <i class='fa-solid fa-heart'></i> © 2024 All rights reserved"
+    },
+    "social": [
+      {
+        "link": "https://www.facebook.com/profile.php?id=100089812935483",
+        "title": "Facebook"
+      }
+    ]
+  }
+  

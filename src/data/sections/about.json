@@ -1,0 +1,20 @@
+{
+    "image1": {
+        "url": "/img/about-one.jpeg",
+        "alt": "Image One"
+    },
+    "image2": {
+        "url": "/img/about-two.jpeg",
+        "alt": "Image One"
+    },
+    "title": "DJCservices",
+    "subtitle": "Welcome",
+    "text": "DJCservices LLC is a remodeling and construction company in Helena, AL and surrounding areas. We offer services for residential and commercial projects ranging from kitchen remodels to new builds. Our experienced team of professionals provides quality craftsmanship with attention to detail. We use top-of-the-line materials and are focused on providing the highest level of customer satisfaction.",
+    "signature": {
+        "light": "/img/signature.png",
+        "dark": "/img/signature-1.png",
+        "alt": "Signature"
+    },
+    "name": "Dennis Carlisle",
+    "role": "Owner of DJCservices"
+}

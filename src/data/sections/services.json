@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "icon": {
+                "light": "/images/icon-1.svg",
+                "dark": "/images/1-icon.png",
+                "alt": "Expert Planning Construction Service Icon"
+            },
+            "title": "Blueprints to Reality",
+            "text": "Crafting Your Vision with Expert Planning.",
+            "link": "/about"
+        },
+        {
+            "icon": {
+                "light": "/images/icon-2.svg",
+                "dark": "/images/2-icon.png",
+                "alt": "Design Excellence in Remodeling Service Icon"
+            },
+            "title": "Design Excellence",
+            "text": "Merging Aesthetics with Functionality for Every Space.",
+            "link": "/about"
+        },
+        {
+            "icon": {
+                "light": "/images/icon-3.svg",
+                "dark": "/images/3-icon.png",
+                "alt": "Quality Materials for Construction Projects Icon"
+            },
+            "title": "Quality Materials",
+            "text": "Building with the Best for Your Project.",
+            "link": "/about"
+        }
+    ]
+}

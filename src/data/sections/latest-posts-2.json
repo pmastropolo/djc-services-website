@@ -1,0 +1,10 @@
+{
+    "subtitle": "Insights & Innovations",
+    "title": "Latest Scoops & Tales",
+    "description": "Our crew's all about solving the tough stuff with grit and grace. Check out our adventures and victories.",
+    "button": {
+        "label": "Discover More",
+        "link": "/blog"
+    },
+    "numOfItems": 2
+}

@@ -1,0 +1,93 @@
+{
+    "subtitle": "Service Areas",
+    "title": "Alabama",
+    "description": "",
+    "numbers": [
+        {
+            "value": "100%",
+            "label": "Employee Owned"
+        },
+        {
+            "value": "700",
+            "label": "Active Projects"
+        }
+    ],
+    "countries": [
+        {
+            "name": "Helena",
+            "map": {
+                "url": "/img/map-2.png",
+                "alt": "Helena, Alabama"
+            },
+            "locations": [
+                {
+                    "title": "Location 1",
+                    "image": "/img/loc.jpg",
+                    "text": "9915 56th Ave. NW Edmonton, AB T6E 5L7"
+                },
+                {
+                    "title": "Location 2",
+                    "image": "/img/loc.jpg",
+                    "text": "9915 56th Ave. NW Edmonton, AB T6E 5L7"
+                }
+            ]
+        },
+        {
+            "name": "Alabaster",
+            "map": {
+                "url": "/img/map-2.png",
+                "alt": "Alabaster, Alabama"
+            },
+            "locations": [
+                {
+                    "title": "Location 1",
+                    "image": "/img/loc.jpg",
+                    "text": "9915 56th Ave. NW Edmonton, AB T6E 5L7"
+                },
+                {
+                    "title": "Location 2",
+                    "image": "/img/loc.jpg",
+                    "text": "9915 56th Ave. NW Edmonton, AB T6E 5L7"
+                }
+            ]
+        },
+        {
+            "name": "Montevallo",
+            "map": {
+                "url": "/img/map-2.png",
+                "alt": "Montevallo, Alabama"
+            },
+            "locations": [
+                {
+                    "title": "Location 1",
+                    "image": "/img/loc.jpg",
+                    "text": "9915 56th Ave. NW Edmonton, AB T6E 5L7"
+                },
+                {
+                    "title": "Location 2",
+                    "image": "/img/loc.jpg",
+                    "text": "9915 56th Ave. NW Edmonton, AB T6E 5L7"
+                }
+            ]
+        },
+        {
+            "name": "Chelsea",
+            "map": {
+                "url": "/img/map-2.png",
+                "alt": "Chelsea Alabama"
+            },
+            "locations": [
+                {
+                    "title": "Location 1",
+                    "image": "/img/loc.jpg",
+                    "text": "9915 56th Ave. NW Edmonton, AB T6E 5L7"
+                },
+                {
+                    "title": "Location 2",
+                    "image": "/img/loc.jpg",
+                    "text": "9915 56th Ave. NW Edmonton, AB T6E 5L7"
+                }
+            ]
+        }
+    ]
+}

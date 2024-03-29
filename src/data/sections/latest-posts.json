@@ -1,0 +1,9 @@
+{
+    "subtitle": "Your Project Companion",
+    "title": "Latest Insights & Transformations",
+    "button": {
+        "label": "Explore All Articles",
+        "link": "/blog"
+    },
+    "numOfItems": 3
+}
