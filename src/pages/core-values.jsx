@@ -18,7 +18,7 @@ const CoreValues = () => {
       <section className="gap no-top core-values">
         <div className="heading">
           <figure>
-            <img src="/images/heading-icon.png" alt="Heading Icon" />
+            <img src="/img/fff.png" alt="Heading Icon" />
           </figure>
           <span>Creating Impact</span>
           <h2>Our Guiding Principles</h2>
@@ -133,7 +133,7 @@ const CoreValues = () => {
       {/* Innovation Start */}
       <section className="gap innovation">
         <div className="heading">
-          <span>Innovation in </span>
+          <span>Revolutionizing</span>
           <h2>Construction and Remodeling</h2>
         </div>
         <div className="container">
@@ -141,27 +141,27 @@ const CoreValues = () => {
             <ul>
               <li>
                 <i className="fa-solid fa-check" />
-                <p>Personalized service that listens to your needs.</p>
+                <p>Where Dreams Get a Southern Comfort Upgrade</p>
               </li>
               <li>
                 <i className="fa-solid fa-check" />
-                <p>Transparent communication ensuring you’re informed and confident.</p>
+                <p>From Sketch to Sweet Home Alabama: Spaces So Stunning, Lynyrd Skynyrd Might Write a Sequel</p>
               </li>
               <li>
                 <i className="fa-solid fa-check" />
-                <p>Precision in every detail, from initial design to final touches.</p>
+                <p>Elevating Homes to Trophy Status, No Camo Required</p>
               </li>
               <li>
                 <i className="fa-solid fa-check" />
-                <p>Quality materials for lasting beauty and value.</p>
+                <p>VIP Materials Only: Because 'Just Okay' Belongs in a Song, Not Your House</p>
               </li>
               <li>
                 <i className="fa-solid fa-check" />
-                <p>Timely completion to get you into your dream space sooner.</p>
+                <p>Delivering Your Dream Space Quicker Than a 4th Quarter Comeback</p>
               </li>
               <li>
                 <i className="fa-solid fa-check" />
-                <p>Dedication to client satisfaction</p>
+                <p>Spaces So Stunning, They Deserve Their Own Tailgate Party</p>
               </li>
             </ul>
           </div>

@@ -40,7 +40,12 @@
                 "label": "Past Projects",
                 "link": "/projects-2",
                 "children": []
-              }
+            },
+            {
+              "label": "Service Areas",
+              "link": "/service-areas",
+              "children": []
+          }
           ]
         },
         {

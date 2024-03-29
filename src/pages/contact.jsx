@@ -2,157 +2,232 @@ import PageBanner from "@components/PageBanner";
 import Layouts from "@layouts/Layouts";
 import Accordion from 'react-bootstrap/Accordion';
 import appData from "@data/app.json";
-import { Formik } from 'formik';
+import { Formik, Form, Field, ErrorMessage } from 'formik';
+import * as Yup from 'yup';
 
 const Contact = () => {
-  const faqData = {
-    "items": [
-        {
-            "title": "Whats the best way to reach you?",
-            "text": "Give us a call or send us a text at (205) 337-3384. Thanks!"
-        },
-        {
-            "title": "Do you provide free estimates?",
-            "text": "Yes, we'll always estimate the job for free. Just give us a call to get started."
-        },
-        {
-            "title": "How long will my project take?",
-            "text": "Each project is unique, so timelines can vary. Rest assured, we’ll map out all the details and share a clear timeline with you once we get a good look at your plans!"
-        },
-        {
-            "title": "How are you different?",
-            "text": "We are a customer-first company that will do whatever it takes to make sure the job is well done."
-        }
-    ]
+    const faqData = {
+      "items": [
+          {
+              "title": "What's the best way to reach you?",
+              "text": "Give us a call or send us a text at (205) 337-3384. Thanks!"
+          },
+          {
+              "title": "Do you provide free estimates?",
+              "text": "Yes, we'll always estimate the job for free. Just give us a call to get started."
+          },
+          {
+              "title": "How long will my project take?",
+              "text": "Each project is unique, so timelines can vary. Rest assured, we’ll map out all the details and share a clear timeline with you once we get a good look at your plans!"
+          },
+          {
+              "title": "How are you different?",
+              "text": "We are a customer-first company that will do whatever it takes to make sure the job is well done."
+          }
+      ]
+    };
+  
+    const servicesOffered = [
+      "Bathroom Renovation",
+      "Carpentry",
+      "Deck & Patio Installation",
+      "Flooring",
+      "Kitchen Renovation",
+      "Other Repair Services",
+      "Other"
+    ];
+
+    return (
+        <Layouts>
+            <PageBanner pageTitle={"Contact"} pageDesc={"No job too big or small just give me a call!"} />
+    
+            {/* Contact Form Start */}
+            <section className="gap contact-form-2">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-lg-7">
+                            <div className="data">
+                                <div className="form-container">
+                                    <h2>Contact Us</h2>
+                                    <Formik
+                                        initialValues={{
+                                            name: '',
+                                            email: '',
+                                            phone: '',
+                                            address: '',
+                                            preferredDate: '',
+                                            services: [],
+                                            message: '',
+                                            terms: false
+                                        }}
+                                        validationSchema={Yup.object({
+                                            name: Yup.string().required('Name is required'),
+                                            email: Yup.string().email('Invalid email address').required('Email is required'),
+                                            phone: Yup.string().required('Phone number is required'),
+                                            address: Yup.string().required('Home address is required'),
+                                            preferredDate: Yup.date().required('Preferred date of service is required'),
+                                            services: Yup.array().min(1, 'At least one service must be selected'),
+                                            message: Yup.string().required('Message is required'),
+                                            terms: Yup.boolean().oneOf([true], 'You must accept the terms and conditions'),
+                                        })}
+                                        onSubmit={(values, { setSubmitting, resetForm }) => {
+                                            setTimeout(() => {
+                                                alert(JSON.stringify(values, null, 2));
+                                                setSubmitting(false);
+                                                resetForm();
+                                            }, 400);
+                                        }}
+                                    >
+                                        {({ values, setFieldValue }) => (
+                                            <Form className="formik-form">
+                                                <Field name="name" type="text" placeholder="Name" className="form-field" />
+                                                <ErrorMessage name="name" component="div" className="error-message" />
+    
+                                                <Field name="email" type="email" placeholder="Email" className="form-field" />
+                                                <ErrorMessage name="email" component="div" className="error-message" />
+    
+                                                <Field name="phone" type="tel" placeholder="Phone Number" className="form-field" />
+                                                <ErrorMessage name="phone" component="div" className="error-message" />
+    
+                                                <Field name="address" type="text" placeholder="Home Address" className="form-field" />
+                                                <ErrorMessage name="address" component="div" className="error-message" />
+    
+                                                <label htmlFor="preferredDate" className="form-label">Preferred Date of Service</label>
+                                                <Field name="preferredDate" type="date" className="form-field" />
+                                                <ErrorMessage name="preferredDate" component="div" className="error-message" />
+    
+                                                <div>Services:</div>
+                                                {servicesOffered.map((service, index) => (
+                                                    <label key={index}>
+                                                        <Field type="checkbox" name="services" value={service} onChange={e => {
+                                                            const isChecked = e.target.checked;
+                                                            const services = values.services;
+                                                            setFieldValue(
+                                                                "services",
+                                                                isChecked ? [...services, service] : services.filter(s => s !== service)
+                                                            );
+                                                        }} />
+                                                        {service}
+                                                    </label>
+                                                ))}
+                                                <ErrorMessage name="services" component="div" className="error-message" />
+    
+                                                <Field name="message" as="textarea" placeholder="Message" className="form-field" />
+                                                <ErrorMessage name="message" component="div" className="error-message" />
+    
+                                                <label className="terms-checkbox">
+                                                    <Field type="checkbox" name="terms" /> I agree to the Terms and Conditions
+                                                </label>
+                                                <ErrorMessage name="terms" component="div" className="error-message" />
+    
+                                                <button type="submit" className="submit-button">Submit</button>
+                                            </Form>
+                                        )}
+                                    </Formik>
+
+   
+    </div>
+  
+    <style jsx>{`
+  .form-container {
+    max-width: 700px;
+    margin: 50px auto;
+    padding: 40px;
+    background: #FFFFFF;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
   }
 
-  return (
-    <Layouts>
-        <PageBanner pageTitle={"Contact"} pageDesc={"No job too big or small just give me a call!"} />
+  h2 {
+    text-align: center;
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 30px;
+    font-weight: 500;
+  }
 
-        {/* Contact Form 2 Start */}
-        <section className="gap contact-form-2">
-            <div className="container">
-            <div className="row">
-                <div className="col-lg-7" >
-                    <div className="data">
-                        <span>Ready to Transform Your Space?</span>
-                        <h2>Craftsmanship & Dedication at Your Service</h2>
-                        <p>Got queries or keen to discuss your next project? Just drop your details into our contact form below. We'll connect you with our experts who are as excited as you are to bring your vision to life.</p>
-                        <Formik
-                        initialValues = {{ email: '', name: '', subject: '', message: '' }}
-                        validate = { values => {
-                            const errors = {};
-                            if (!values.email) {
-                                errors.email = 'Required';
-                            } else if (
-                                !/^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}$/i.test(values.email)
-                            ) {
-                                errors.email = 'Invalid email address';
-                            }
-                            return errors;
-                        }}
-                        onSubmit = {( values, { setSubmitting } ) => {
-                            const form = document.getElementById("contactForm");
-                            const status = document.getElementById("contactFormStatus");
-                            const data = new FormData();
+  .formik-form {
+    display: flex;
+    flex-direction: column;
+  }
 
-                            data.append('name', values.name);
-                            data.append('subject', values.subject);
-                            data.append('email', values.email);
-                            data.append('message', values.message);
+  .form-field, .terms-checkbox {
+    border: 2px solid #EAEAEA;
+    border-radius: 8px;
+    padding: 15px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    outline: none;
+    transition: border-color 0.3s;
+  }
 
-                            fetch(form.action, {
-                                method: 'POST',
-                                body: data,
-                                headers: {
-                                    'Accept': 'application/json'
-                                }
-                            }).then(response => {
-                                if (response.ok) {
-                                    status.innerHTML = "Thanks for your submission!";
-                                    form.reset()
-                                } else {
-                                    response.json().then(data => {
-                                        if (Object.hasOwn(data, 'errors')) {
-                                            status.innerHTML = data["errors"].map(error => error["message"]).join(", ")
-                                        } else {
-                                            status.innerHTML = "Oops! There was a problem submitting your form"
-                                        }
-                                    })
-                                }
-                            }).catch(error => {
-                                status.innerHTML = "Oops! There was a problem submitting your form"
-                            });
+  .form-field:focus, .terms-checkbox:focus {
+    border-color: #007AFF;
+  }
 
-                            setSubmitting(false);
-                        }}
-                        >
-                        {({
-                            values,
-                            errors,
-                            touched,
-                            handleChange,
-                            handleBlur,
-                            handleSubmit,
-                            isSubmitting,
-                            /* and other goodies */
-                        }) => (
-                        <form onSubmit={handleSubmit} id="contactForm" action={appData.settings.formspreeURL}>
-                            <div className="row g-0">
-                                <textarea 
-                                  name="message" 
-                                  placeholder="Question / Message?"
-                                  required="required"
-                                  onChange={handleChange}
-                                  onBlur={handleBlur}
-                                  value={values.message}
-                                />
-                            </div>
-                            <div className="row g-0">
-                                <input 
-                                  type="text"
-                                  name="name" 
-                                  className="form-control"
-                                  id="exampleInputText1" 
-                                  placeholder="Name"
-                                  required="required" 
-                                  onChange={handleChange}
-                                  onBlur={handleBlur}
-                                  value={values.name} 
-                                />
-                            </div>
-                            <div className="row g-0">
-                                <input 
-                                  type="email" 
-                                  className="form-control" 
-                                  id="exampleInputEmail1" 
-                                  placeholder="Email Address"
-                                  name="email"
-                                  required="required"
-                                  onChange={handleChange}
-                                  onBlur={handleBlur}
-                                  value={values.email} 
-                                />
-                            </div>
-                            <div className="row g-0">
-                                <input 
-                                  type="text" 
-                                  className="form-control" 
-                                  id="exampleInputPassword1" 
-                                  placeholder="Subject"
-                                  name="subject"
-                                  onChange={handleChange}
-                                  onBlur={handleBlur}
-                                  value={values.subject} 
-                                />
-                            </div>
-                            <button type="submit" className="theme-btn">Send Message <i className="fa-solid fa-angles-right" /></button>
+  .form-field textarea {
+    min-height: 150px;
+    resize: vertical;
+  }
+
+  label {
+    margin-bottom: 5px;
+    color: #666;
+    font-weight: 500;
+  }
+
+  .error-message {
+    color: #D32F2F;
+    margin-top: 5px;
+    font-size: 14px;
+  }
+
+  .submit-button {
+    background-color: #007AFF;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 15px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    text-align: center;
+    display: block;
+    width: 100%;
+  }
+
+  .submit-button:hover {
+    background-color: #005ECB;
+  }
+
+  .terms-checkbox label {
+    display: flex;
+    align-items: center;
+  }
+
+  .terms-checkbox input[type='checkbox'] {
+    margin-right: 10px;
+  }
+
+  div>Services: {
+    font-weight: 500;
+    margin-bottom: 10px;
+    color: #333;
+  }
+
+  label {
+    display: block;
+    margin: 5px 0;
+  }
+`}</style>
+
+
+
+                     
                             
-                            <div className="form-status" id="contactFormStatus" />
-                        </form>
-                        )}
-                        </Formik>
+                          
+                    
+             
                     </div>
                 </div>
                 <div className="col-lg-4 offset-lg-1" >
@@ -216,7 +291,7 @@ const Contact = () => {
         <section className="contact-faqs">
             <div className="heading">
                 <figure>
-                    <img src="/images/heading-icon.png" alt="Heading Icon" />
+                    <img src="/img/re.png" alt="Heading Icon" />
                 </figure>
                 <span>Frequently asked questions</span>
                 <h2>Easy Answers to Your FAQs</h2>

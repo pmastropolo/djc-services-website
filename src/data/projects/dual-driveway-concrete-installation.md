@@ -36,16 +36,16 @@ details:
 
 slider: 
     items:
-        - image: /img/project2.jpeg
+        - image: /img/xxxx.png
           alt: "Driveways before installation"
 
-        - image: /img/project3.jpeg
+        - image: /img/xx.png
           alt: "Concrete pouring in action"
 
-        - image: /img/project4.jpeg
+        - image: /img/xxx.png
           alt: "Smoothing the concrete"
 
-        - image: /img/project5.jpeg
+        - image: /img/x.png
           alt: "Completed driveways side by side"
 ---
 

@@ -56,7 +56,7 @@ const Services = (props) => {
               <Tab.Content>
                 <Tab.Pane eventKey="tab-service-0" title="General Contracting">
                   <figure>
-                    <img className="w-100" src="/img/bathroomone.jpg" alt="Services Nav Image 1" />
+                    <img className="w-100" src="/img/services-banner-bathroom.png" alt="Services Nav Image 1" />
                     <figcaption>
                     <h3>Bathroom Renovation</h3>
                     <p>Revamp your bathroom with our top-tier remodeling. Custom designs, expert construction, luxurious results, budget-friendly.</p>
@@ -66,7 +66,7 @@ const Services = (props) => {
                 </Tab.Pane>
                 <Tab.Pane eventKey="tab-service-1" title="Construction Consultant">
                   <figure>
-                    <img className="w-100" src="/img/carpentry.jpg" alt="Services Nav Image 2" />
+                    <img className="w-100" src="/img/services-carpentry-banner.png" alt="Services Nav Image 2" />
                     <figcaption>
                       <h3>Carpentry</h3>
                       <p>From bespoke furniture to comprehensive home renovations, we specialize in custom woodworking for exquisite results.</p>
@@ -75,7 +75,7 @@ const Services = (props) => {
                 </Tab.Pane>
                 <Tab.Pane eventKey="tab-service-2" title="Metal Roofin">
                   <figure>
-                    <img className="w-100" src="/img/service2.jpeg" alt="Services Nav Image 3" />
+                    <img className="w-100" src="/img/services-deck-and-patio.png" alt="Services Nav Image 3" />
                     <figcaption>
                       <h3>Deck & Patio Installation</h3>
                       <p>Crafted for entertainment and relaxation, our premium services ensure stunning, versatile spaces tailored to your lifestyle.</p>
@@ -84,7 +84,7 @@ const Services = (props) => {
                 </Tab.Pane>
                 <Tab.Pane eventKey="tab-service-3" title="House Renovation">
                   <figure>
-                    <img className="w-100" src="/img/service9.jpeg" alt="Services Nav Image 4" />
+                    <img className="w-100" src="/img/services-flooring.png" alt="Services Nav Image 4" />
                     <figcaption>
                       <h3>Flooring</h3>
                       <p>From hardwood to tile, we offer expert installations. Experience unmatched craftsmanship tailored to your unique style.</p>
@@ -93,7 +93,7 @@ const Services = (props) => {
                 </Tab.Pane>
                 <Tab.Pane eventKey="tab-service-4" title="Green Building">
                   <figure>
-                    <img className="w-100" src="/img/service4.jpeg" alt="Services Nav Image 5" />
+                    <img className="w-100" src="/img/services-kitchen.png" alt="Services Nav Image 5" />
                     <figcaption>
                       <h3>Kitchen Renovation</h3>
                       <p>From countertops to cabinetry, we specialize in crafting culinary masterpieces. Experience personalized design and expert craftsmanship tailored to your style.</p>
@@ -129,7 +129,7 @@ const Services = (props) => {
       <section className="gap service-style-two">
         <div className="heading">
           <figure>
-            <img src="/images/heading-icon.png" alt="heading-icon" />
+            <img src="/img/fff.png" alt="heading-icon" />
           </figure>
           <span>Construction and Remodeling</span>
           <h2>Premium Services</h2>

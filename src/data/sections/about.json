@@ -1,10 +1,10 @@
 {
     "image1": {
-        "url": "/img/about-one.jpeg",
+        "url": "/img/hi.png",
         "alt": "Image One"
     },
     "image2": {
-        "url": "/img/about-two.jpeg",
+        "url": "/img/about-image.png",
         "alt": "Image One"
     },
     "title": "DJCservices",

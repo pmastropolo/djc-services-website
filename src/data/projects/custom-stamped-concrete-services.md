@@ -38,16 +38,16 @@ details:
 
 slider: 
     items:
-        - image: /img/project2.jpeg
+        - image: /img/nn.png
           alt: "Before stamped concrete project"
 
-        - image: /img/project3.jpeg
+        - image: /img/nnn.png
           alt: "Process of concrete stamping"
 
-        - image: /img/project4.jpeg
+        - image: /img/nnnn.png
           alt: "Detail of stamped concrete pattern"
 
-        - image: /img/project5.jpeg
+        - image: /img/n.png
           alt: "Completed stamped concrete installation"
 ---
 
