@@ -12,7 +12,7 @@ const Blog = ( { posts, currentPage, totalPosts } ) => {
 
   return (
     <Layouts>
-      <PageBanner pageTitle={"Our Blog"} pageDesc={"our values and vaulted us to the top of our industry."} />
+      <PageBanner pageTitle={"Our Blog"} pageDesc={"Building Dreams, Remodeling Futures: Where Vision Meets Craftsmanship"} />
 
       {/* Blog Style One Start */}
       <section className="gap blog-style-one our-blog-one">

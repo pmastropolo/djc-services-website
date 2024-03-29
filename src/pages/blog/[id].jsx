@@ -12,7 +12,7 @@ const PostsDetail = ( props ) => {
 
   return (
     <Layouts>
-      <PageBanner pageTitle={"Blog Detail"} pageDesc={"our values and vaulted us to the top of our industry."} />
+      <PageBanner pageTitle={"Blog"} pageDesc={"Building Dreams, Remodeling Futures: Where Vision Meets Craftsmanship"} />
 
       {/* Blog Style Three Start */}
       <section className="gap blog-style-one blog-detail detail-page">
@@ -78,67 +78,7 @@ const PostsDetail = ( props ) => {
                     </p>
                     <ul>
                       <li><a href="#" onClick={(e) => {e.preventDefault();}}>Facebook</a></li>
-                      <li><a href="#" onClick={(e) => {e.preventDefault();}}>Twitter</a></li>
-                      <li><a href="#" onClick={(e) => {e.preventDefault();}}>LinkedIn</a></li>
                     </ul>
-                </div>
-
-                <div className="category shape comments">
-                  <h3>Comments</h3>
-                  <ul>
-                    <li>
-                      <div className="comment">
-                        <div className="c-img">
-                          <figure>
-                            <img src="/img/comment-img-1.jpg" alt="Comment Image One" />
-                          </figure>
-                        </div>
-                        <div className="c-data">
-                          <h4>Jonathom Doe</h4>
-                          <span>July 31, 2022</span>
-                          <p>Delivered ye sportsmen zealously arranging frankness estimable as. Nay any article enabled musical shyness yet sixteen.</p>
-                          <a className="c-r-btn" href="#.">Reply</a>
-                        </div>
-                      </div>
-                    </li>
-                    <li>
-                      <div className="comment reply">
-                        <div className="c-img">
-                          <figure>
-                            <img src="/img/comment-img-2.jpg" alt="Comment Image Two" />
-                          </figure>
-                        </div>
-                        <div className="c-data">
-                          <h4>Jonathom Doe</h4>
-                          <span>July 31, 2022</span>
-                          <p>Delivered ye sportsmen zealously arranging frankness estimable as. Nay any article enabled musical shyness yet sixteen.</p>
-                          <a className="c-r-btn" href="#.">Reply</a>
-                        </div>
-                      </div>
-                    </li>
-                  </ul>
-                </div>
-                <div className="category shape form">
-                  <h3>Leave a Comment</h3>
-                  <p>Your email address will not be published.</p>
-                  <form onSubmit={(e) => {e.preventDefault();}}>
-                    <textarea placeholder="Comment" />
-                    <div className="row">
-                      <div className="form-group col-md-6">
-                        <input type="text" name="text" placeholder="Complete Name" />
-                      </div>
-                      <div className="form-group col-md-6">
-                        <input type="email" name="email" placeholder="Email Address" />
-                      </div>
-                    </div>
-                    <div className="row align-items-center form-check">
-                      <div className="col-lg-12 d-flex-all justify-content-start">
-                        <input type="checkbox" className="form-check-inputt" id="exampleCheck24" />
-                        <label className="form-check-labell" htmlFor="exampleCheck24"> Save my name, email, and website in this browser for the next time I comment.</label>
-                      </div>
-                    </div>
-                    <button type="submit" className="theme-btn">Post Comment <i className="fa-solid fa-angles-right"></i></button>
-                  </form>
                 </div>
               </div>
             </div>
@@ -149,39 +89,22 @@ const PostsDetail = ( props ) => {
                   <h3>Recent Posts</h3>
                   <ul>
                     <li>
-                      <p>Consulted admitting is power acuteness.</p>
-                      <a href="/blog/">
+                      <p>Privacy And Style In Backyard Retreats</p>
+                      <a href="/blog/elevating-privacy-and-style-in-backyard-retreats">
                         <i className="fa-solid fa-arrow-up-long"></i>
                       </a>
                     </li>
                     <li>
-                      <p>Consulted admitting is power acuteness.</p>
-                      <a href="blog-detail.html">
+                      <p>Back Patio Makeover | From Vision To Reality</p>
+                      <a href="/blog/back-patio-makeover">
                         <i className="fa-solid fa-arrow-up-long"></i>
                       </a>
                     </li>
                     <li>
-                      <p>Consulted admitting is power acuteness.</p>
-                      <a href="blog-detail.html">
+                      <p>A Stunning Kitchen Remodel From Scratch</p>
+                      <a href="/blog/a-stunning-kitchen-remodel-from-scratch">
                         <i className="fa-solid fa-arrow-up-long"></i>
                       </a>
-                    </li>
-                  </ul>
-                </div>
-                <div className="box recent-cmnts">
-                  <h3>Recent Comments</h3>
-                  <ul>
-                    <li>
-                      <h4>Thomas Walkar</h4>
-                      <p>Consulted admitting is power acuteness.</p>
-                    </li>
-                    <li>
-                      <h4>Thomas Walkar</h4>
-                      <p>Consulted admitting is power acuteness.</p>
-                    </li>
-                    <li>
-                      <h4>Thomas Walkar</h4>
-                      <p>Consulted admitting is power acuteness.</p>
                     </li>
                   </ul>
                 </div>
@@ -190,61 +113,18 @@ const PostsDetail = ( props ) => {
                   <ul>
                     <li>
                       <a href="#" onClick={(e) => {e.preventDefault();}}>
-                        <p>Uncategorized</p>
+                        <p>Interior</p>
                       </a>
                     </li>
                     <li>
                       <a href="#" onClick={(e) => {e.preventDefault();}}>
-                        <p>Construction</p>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#" onClick={(e) => {e.preventDefault();}}>
-                        <p>Projects</p>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#" onClick={(e) => {e.preventDefault();}}>
-                        <p>Expansion</p>
+                        <p>Exterior</p>
                       </a>
                     </li>
                   </ul>
                 </div>
-                <div className="box categories">
-                  <h3>Archives</h3>
-                  <ul>
-                    <li>
-                      <a href="#" onClick={(e) => {e.preventDefault();}}>
-                        <p>July 2021</p>
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-                <div className="box categories">
-                  <h3>Meta</h3>
-                  <ul>
-                    <li>
-                      <a href="#" onClick={(e) => {e.preventDefault();}}>
-                        <p>Log in</p>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#" onClick={(e) => {e.preventDefault();}}>
-                        <p>Entries feed</p>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#" onClick={(e) => {e.preventDefault();}}>
-                        <p>Comments feed</p>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#" onClick={(e) => {e.preventDefault();}}>
-                        <p>WordPress.org</p>
-                      </a>
-                    </li>
-                  </ul>
-                </div>
+
+        
               </aside>
             </div>
           </div>
