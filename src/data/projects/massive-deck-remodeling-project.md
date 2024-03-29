@@ -36,16 +36,16 @@ details:
 
 slider: 
     items:
-        - image: /img/project2.jpeg
+        - image: /img/mas-two.png
           alt: "Before deck construction image"
 
-        - image: /img/project3.jpeg
+        - image: /img/masss.png
           alt: "After deck construction image"
 
-        - image: /img/project4.jpeg
+        - image: /img/mass.png
           alt: "Detail of deck design and materials"
 
-        - image: /img/project5.jpeg
+        - image: /img/mas.png
           alt: "Wide-angle view of the completed deck"
 ---
 

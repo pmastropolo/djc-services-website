@@ -36,16 +36,10 @@ details:
 
 slider: 
     items:
-        - image: /img/project2.jpeg
+        - image: /img/fireplace.png
           alt: "Before fireplace installation image"
 
-        - image: /img/project3.jpeg
-          alt: "After fireplace and enhancements"
-
-        - image: /img/project4.jpeg
-          alt: "Detail of tile work"
-
-        - image: /img/project5.jpeg
+        - image: /img/fireplace-two.png
           alt: "Full view of the new fireplace setup"
 ---
 

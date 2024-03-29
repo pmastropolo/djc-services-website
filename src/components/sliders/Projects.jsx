@@ -9,7 +9,7 @@ const ProjectsSlider = ( { projects } ) => {
         <section className="gap project-style-one light-bg-color">
             <div className="heading">
                 <figure>
-                    <img src="/img/heading-icon.png" alt="Heading Icon" />
+                    <img src="/img/re.png" alt="Heading Icon" />
                 </figure>
                 <span>{Data.subtitle}</span>
                 <h2>{Data.title}</h2>

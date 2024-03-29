@@ -36,17 +36,11 @@ details:
 
 slider: 
     items:
-        - image: /img/project2.jpeg
+        - image: /img/front.png
           alt: "Before renovation image"
 
-        - image: /img/project3.jpeg
+        - image: /img/frontt.png
           alt: "After renovation image"
-
-        - image: /img/project4.jpeg
-          alt: "Updated shutters before and after"
-
-        - image: /img/project5.jpeg
-          alt: "Planned vinyl siding samples"
 ---
 
 DJCServices LLC, known for its dedication to client satisfaction and excellence in home improvement, successfully completed a transformative renovation on April 15, 2023. This project involved the meticulous restoration of a home's front porch, which was at risk of collapse, and the modernization of its shutters, enhancing both the aesthetic appeal and structural integrity of the property. The upcoming installation of vinyl siding is eagerly anticipated, promising to further beautify and protect the home. For those inspired by this transformation, DJCServices LLC offers free estimates, extending an invitation to bring your vision to life with the same level of care and excellence demonstrated in this project.

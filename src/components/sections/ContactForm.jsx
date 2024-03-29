@@ -4,17 +4,20 @@ import appData from "@data/app.json";
 import { Formik } from 'formik';
 
 const ContactFormSection = () => {
-  const styles = {
-    parallax: {
-        "backgroundImage": "url(/images/pattren.png)"
+    const styles = {
+      parallax: {
+          "backgroundImage": "url(/images/pattren.png)"
+      },
+      input: {
+          "color": "white",
+      }
     }
-  }
 
   return (
     <section className="contact-form-one">
         <div className="heading">
             <figure>
-                <img src="/images/heading-icon.png" alt="heading-icon" />
+                <img src="/img/re.png" alt="heading-icon" />
             </figure>
             <span>{Data.subtitle}</span>
             <h2>{Data.title}</h2>
@@ -42,7 +45,7 @@ const ContactFormSection = () => {
                     <div className="parallax" style={styles.parallax} />
 
                     <Formik
-                    initialValues = {{ email: '', name: '', subject: '', message: '', phone: '' }}
+                    initialValues = {{ email: '', name: '', subject: '', message: '', phone: '', address: '' }}
                     validate = { values => {
                         const errors = {};
                         if (!values.email) {
@@ -107,7 +110,7 @@ const ContactFormSection = () => {
                               type="text" 
                               className="form-control" 
                               id="exampleInputText1" 
-                              placeholder="Complete Name"
+                              placeholder="Name"
                               name="name"
                               required="required" 
                               onChange={handleChange}
@@ -141,22 +144,38 @@ const ContactFormSection = () => {
                             />
                         </div>
                         <div className="row g-0">
-                            <div className="select-wrapper">
-                            <select 
-                              id="inputState-111" 
-                              className="form-control" 
-                              name="subject" 
-                              onChange={handleChange}
-                              onBlur={handleBlur}
-                              value={values.subject}
-                            >
-                                <option>Subject</option>
-                                <option value="1">Subject 1</option>
-                                <option value="2">Subject 2</option>
-                                <option value="3">Subject 3</option>
-                            </select>
-                            </div>
-                        </div>
+                    <input 
+                      type="text" 
+                      className="form-control" 
+                      placeholder="Address"
+                      name="address"
+                      onChange={handleChange}
+                      onBlur={handleBlur}
+                      value={values.address} 
+                      style={styles.input}
+                    />
+                </div>
+                        <div className="row g-0">
+    <div className="select-wrapper">
+        <select 
+          id="inputState-111" 
+          className="form-control" 
+          name="subject" 
+          onChange={handleChange}
+          onBlur={handleBlur}
+          value={values.subject}
+        >
+            <option value="">Select a Service...</option>
+            <option value="bathroom-renovation">Bathroom Renovation</option>
+            <option value="carpentry">Carpentry</option>
+            <option value="deck-patio-installation">Deck & Patio Installation</option>
+            <option value="flooring">Flooring</option>
+            <option value="kitchen-renovation">Kitchen Renovation</option>
+            <option value="other-renovation-services">Other Renovation Services</option>
+        </select>
+    </div>
+</div>
+
                         <div className="row g-0">
                             <textarea 
                               placeholder="Question / Message?"

@@ -2,7 +2,7 @@
     "settings": {
       "siteName": "DJCservices LLC",
       "preloader": {
-        "image": "/img/brand.png",
+        "image": "/img/re.png",
         "alt": "DJCservices Brand Logo"
       },
       "formspreeURL": "https://formspree.io/f/your_api_key",
@@ -29,11 +29,6 @@
             {
               "label": "About DJCservices",
               "link": "/about",
-              "children": []
-            },
-            {
-              "label": "Core Values",
-              "link": "/core-values",
               "children": []
             },
             {
@@ -98,7 +93,7 @@
     },
     "footer": {
       "logo": {
-        "image": "/img/y.png",
+        "image": "/img/fot.png",
         "alt": "DJCservices Brand Logo"
       },
       "info": {

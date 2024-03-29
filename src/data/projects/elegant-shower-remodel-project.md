@@ -36,17 +36,14 @@ details:
 
 slider: 
     items:
-        - image: /img/project2.jpeg
+        - image: /img/showerr.png
           alt: "Before the shower remodel"
 
-        - image: /img/project3.jpeg
+        - image: /img/shower.png
           alt: "After the shower remodel"
 
-        - image: /img/project4.jpeg
+        - image: /img/sho.png
           alt: "Detail of the shower materials and design"
-
-        - image: /img/project5.jpeg
-          alt: "Full view of the remodeled shower"
 ---
 
 DJCServices LLC is passionate about turning the ordinary into the extraordinary, especially when it comes to shower remodels. Completed on January 31, 2023, our latest project is a testament to how a small change can make a big impact, transforming a basic bathroom into a luxurious retreat. Using premium materials and custom designs, we focus on elevating the shower experience to make each bathroom a bit more exciting. Check out our before and after photos to see the transformation for yourself. If you're thinking about a bathroom or shower remodel, DM us. Let's make your bathroom remodel dreams a reality with DJCServices LLC.

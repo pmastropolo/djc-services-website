@@ -36,16 +36,16 @@ details:
 
 slider: 
     items:
-        - image: /img/project2.jpeg
+        - image: /img/outside.png
           alt: "Before upgrade image"
 
-        - image: /img/project3.jpeg
+        - image: /img/outside-two.png
           alt: "After concrete installation"
 
-        - image: /img/project4.jpeg
+        - image: /img/outside-three.png
           alt: "Newly constructed privacy fence"
 
-        - image: /img/project5.jpeg
+        - image: /img/outside-four.png
           alt: "Custom deck with under-deck roof system"
 ---
 

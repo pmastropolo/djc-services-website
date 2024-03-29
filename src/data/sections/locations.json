@@ -1,50 +1,43 @@
 {
-    "subtitle": "Service Areas",
-    "title": "Alabama",
-    "description": "",
-    "numbers": [
-      {
-        "value": "100%",
-        "label": "Employee Owned"
-      },
-      {
-        "value": "700",
-        "label": "Active Projects"
-      }
-    ],
-    "countries": [
-      {
-        "name": "Helena",
-        "map": {
-          "url": "/img/map-2.png",
-          "alt": "Helena, Alabama"
-        },
-        "locations": []
-      },
-      {
-        "name": "Alabaster",
-        "map": {
-          "url": "/img/map-2.png",
-          "alt": "Alabaster, Alabama"
-        },
-        "locations": []
-      },
-      {
-        "name": "Montevallo",
-        "map": {
-          "url": "/img/map-2.png",
-          "alt": "Montevallo, Alabama"
-        },
-        "locations": []
-      },
-      {
-        "name": "Chelsea",
-        "map": {
-          "url": "/img/map-2.png",
-          "alt": "Chelsea Alabama"
-        },
-        "locations": []
-      }
-    ]
-  }
-  
+  "subtitle": "Service Areas",
+  "title": "Serving Alabama with Pride",
+  "description": "DJC Services LLC takes pride in delivering top-tier construction and remodeling services throughout Alabama. Emphasizing quality, reliability, and customer satisfaction, we leverage over a decade of expertise for each project. Serving areas from Helena to Alabaster, Montevallo, and Chelsea, our team is committed to transforming homes and fulfilling dreams, all while respecting local architectural styles and community needs.",
+  "countries": [
+    {
+      "name": "Alabaster",
+      "description": "Alabaster is known for its vibrant communities and scenic landscapes, making it a prime location for innovative construction and remodeling projects."
+    },
+    {
+      "name": "Birmingham",
+      "description": "In Birmingham, we specialize in blending contemporary designs with the city's rich industrial heritage to create unique living spaces."
+    },
+    {
+      "name": "Chelsea",
+      "description": "Chelsea's rapid growth offers a unique opportunity for custom home constructions and renovations that meet modern living standards."
+    },
+    {
+      "name": "Helena",
+      "description": "Helena's historic charm and family-friendly neighborhoods make it an ideal spot for projects that enhance its natural beauty and community spirit."
+    },
+    {
+      "name": "Homewood",
+      "description": "Our work in Homewood focuses on creating spaces that reflect the area's artistic vibe and pedestrian-friendly lifestyle."
+    },
+    {
+      "name": "Hoover",
+      "description": "In Hoover, we undertake projects that cater to both its bustling commercial needs and the serene residential life."
+    },
+    {
+      "name": "Pelham",
+      "description": "Pelham's diverse landscapes challenge us to design and build homes that are harmonious with the environment and community aspirations."
+    },
+    {
+      "name": "Montevallo",
+      "description": "Montevallo’s academic atmosphere inspires our designs to be innovative, fostering environments that support learning and creativity."
+    },
+    {
+      "name": "Vestavia Hills",
+      "description": "Vestavia Hills, with its picturesque views, motivates us to create elegant and sophisticated homes that complement its exquisite surroundings."
+    }
+  ]
+}

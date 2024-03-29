@@ -129,96 +129,96 @@ const Contact = () => {
     </div>
   
     <style jsx>{`
-  .form-container {
-    max-width: 700px;
-    margin: 50px auto;
-    padding: 40px;
-    background: #FFFFFF;
-    border-radius: 12px;
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
-  }
+                        .form-container {
+                            max-width: 700px;
+                            margin: 50px auto;
+                            padding: 40px;
+                            background: #FFFFFF;
+                            border-radius: 12px;
+                            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+                        }
 
-  h2 {
-    text-align: center;
-    font-size: 28px;
-    color: #333;
-    margin-bottom: 30px;
-    font-weight: 500;
-  }
+                        h2 {
+                            text-align: center;
+                            font-size: 28px;
+                            color: #333;
+                            margin-bottom: 30px;
+                            font-weight: 500;
+                        }
 
-  .formik-form {
-    display: flex;
-    flex-direction: column;
-  }
+                        .formik-form {
+                            display: grid;
+                            grid-gap: 20px; /* Increased spacing between form elements */
+                        }
 
-  .form-field, .terms-checkbox {
-    border: 2px solid #EAEAEA;
-    border-radius: 8px;
-    padding: 15px;
-    font-size: 16px;
-    margin-bottom: 20px;
-    outline: none;
-    transition: border-color 0.3s;
-  }
+                        .form-field, .terms-checkbox {
+                            border: 2px solid #EAEAEA;
+                            border-radius: 8px;
+                            padding: 15px;
+                            font-size: 16px;
+                            margin-bottom: 20px; /* Adjusted margin for spacing */
+                            outline: none;
+                            transition: border-color 0.3s;
+                        }
 
-  .form-field:focus, .terms-checkbox:focus {
-    border-color: #007AFF;
-  }
+                        .form-field:focus, .terms-checkbox:focus {
+                            border-color: #007AFF;
+                        }
 
-  .form-field textarea {
-    min-height: 150px;
-    resize: vertical;
-  }
+                        .form-field textarea {
+                            min-height: 150px;
+                            resize: vertical;
+                        }
 
-  label {
-    margin-bottom: 5px;
-    color: #666;
-    font-weight: 500;
-  }
+                        label {
+                            margin-bottom: 5px;
+                            color: #666;
+                            font-weight: 500;
+                        }
 
-  .error-message {
-    color: #D32F2F;
-    margin-top: 5px;
-    font-size: 14px;
-  }
+                        .error-message {
+                            color: #D32F2F;
+                            margin-top: 5px;
+                            font-size: 14px;
+                        }
 
-  .submit-button {
-    background-color: #007AFF;
-    color: white;
-    border: none;
-    border-radius: 8px;
-    padding: 15px 30px;
-    font-size: 16px;
-    cursor: pointer;
-    transition: background-color 0.2s;
-    text-align: center;
-    display: block;
-    width: 100%;
-  }
+                        .submit-button {
+                            background-color: #007AFF;
+                            color: white;
+                            border: none;
+                            border-radius: 8px;
+                            padding: 15px 30px;
+                            font-size: 16px;
+                            cursor: pointer;
+                            transition: background-color 0.2s;
+                            text-align: center;
+                            display: block;
+                            width: 100%;
+                        }
 
-  .submit-button:hover {
-    background-color: #005ECB;
-  }
+                        .submit-button:hover {
+                            background-color: #005ECB;
+                        }
 
-  .terms-checkbox label {
-    display: flex;
-    align-items: center;
-  }
+                        .terms-checkbox label {
+                            display: flex;
+                            align-items: center;
+                        }
 
-  .terms-checkbox input[type='checkbox'] {
-    margin-right: 10px;
-  }
+                        .terms-checkbox input[type='checkbox'] {
+                            margin-right: 10px;
+                        }
 
-  div>Services: {
-    font-weight: 500;
-    margin-bottom: 10px;
-    color: #333;
-  }
+                        div>Services: {
+                            font-weight: 500;
+                            margin-bottom: 20px; /* Increased spacing for readability */
+                            color: #333;
+                        }
 
-  label {
-    display: block;
-    margin: 5px 0;
-  }
+                        label {
+                            display: block;
+                            margin: 10px 0; /* Increased spacing for labels */
+                        }
 `}</style>
 
 
@@ -234,7 +234,7 @@ const Contact = () => {
                 <div className="bio">
                     <div className="data">
                         <figure>
-                            <img className="author" src="/img/team-1.jpg" alt="Owner of DJCservices" />
+                            <img className="author" src="/img/vivi.png" alt="Owner of DJCservices" />
                         </figure>
                         <h3>Dennis Carlisle</h3>
                         <p>Owner of DJCservices</p>

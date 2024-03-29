@@ -36,16 +36,16 @@ details:
 
 slider: 
     items:
-        - image: /img/project2.jpeg
+        - image: /img/living-four.png
           alt: "Before project start image"
 
-        - image: /img/project3.jpeg
+        - image: /img/living-two.png
           alt: "After completion image"
 
-        - image: /img/project4.jpeg
+        - image: /img/living.png
           alt: "New driveway slab addition"
 
-        - image: /img/project5.jpeg
+        - image: /img/living-three.png
           alt: "New walking path for accessibility"
 ---
 
