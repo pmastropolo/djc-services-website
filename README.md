@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ### Website Link
 
-https://app.netlify.com/sites/djcservicesllc/overview
+https://djcservicesllc.netlify.app/
 
 ## Getting Started
 
