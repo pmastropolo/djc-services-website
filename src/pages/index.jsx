@@ -14,8 +14,7 @@ import LocationsSection from "@components/sections/Locations";
 import ContactFormSection from "@components/sections/ContactForm";
 import LatestPosts2Section from "@components/sections/LatestPosts2";
 
-const ProductsSlider = dynamic( () => import("@components/sliders/Products"), { ssr: false } );
-const Projects2Slider = dynamic( () => import("@components/sliders/Projects2"), { ssr: false } );
+
 const ProjectsSlider = dynamic( () => import("@components/sliders/Projects"), { ssr: false } );
 
 

@@ -234,7 +234,7 @@ const Contact = () => {
                 <div className="bio">
                     <div className="data">
                         <figure>
-                            <img className="author" src="/img/vivi.png" alt="Owner of DJCservices" />
+                            <img className="author" src="/img/dennis-carlisle-owner-of-djcservices-llc-profile-image.png" alt="Owner of DJCservices LLC | Dennis Carlisle" />
                         </figure>
                         <h3>Dennis Carlisle</h3>
                         <p>Owner of DJCservices</p>

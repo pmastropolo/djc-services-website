@@ -2,8 +2,8 @@
     "items": [
         {
             "icon": {
-                "light": "/images/icon-1.svg",
-                "dark": "/images/1-icon.png",
+                "light": "/images/icon-3.svg",
+                "dark": "/images/3-icon.png",
                 "alt": "Expert Planning Construction Service Icon"
             },
             "title": "Blueprints to Reality",
@@ -22,8 +22,8 @@
         },
         {
             "icon": {
-                "light": "/images/icon-3.svg",
-                "dark": "/images/3-icon.png",
+                "light": "/images/icon-1.svg",
+                "dark": "/images/1-icon.png",
                 "alt": "Quality Materials for Construction Projects Icon"
             },
             "title": "Quality Materials",

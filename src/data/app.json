@@ -2,7 +2,7 @@
     "settings": {
       "siteName": "DJCservices LLC",
       "preloader": {
-        "image": "/img/re.png",
+        "image": "/img/fot.png",
         "alt": "DJCservices Brand Logo"
       },
       "formspreeURL": "https://formspree.io/f/your_api_key",

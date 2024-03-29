@@ -36,17 +36,17 @@ details:
 
 slider: 
     items:
-        - image: /img/xxxx.png
-          alt: "Driveways before installation"
+        - image: /img/dual-concrete-during-process-one-driveway.png
+          alt: "Early stage of residential concrete driveway installation in progress"
 
-        - image: /img/xx.png
-          alt: "Concrete pouring in action"
+        - image: /img/dual-concrete-driveway-concrete-process.png
+          alt: "Active concrete pouring process for driveway construction"
 
-        - image: /img/xxx.png
-          alt: "Smoothing the concrete"
+        - image: /img/dual-concrete-one-driveway-after-image.png
+          alt: "Professional smoothing and finishing of a concrete driveway surface"
 
-        - image: /img/x.png
-          alt: "Completed driveways side by side"
+        - image: /img/dual-concrete-driveways-side-by-side-after-image.png
+          alt: "Two adjacent, beautifully completed concrete driveways for modern homes"
 ---
 
 On July 13, 2023, DJCServices LLC took on an ambitious project: installing two concrete driveways for neighboring homes, all in one day. This project not only showcased our team's efficiency and dedication to meeting tight deadlines but also our commitment to enhancing the community's appearance. The transformation of these two properties, completed side by side, demonstrates the power of neighborly collaboration and our ability to deliver high-quality results quickly. Check out the dramatic before and after photos to see the difference a day makes. Interested in a similar upgrade for your home? Contact DJCServices LLC for a free estimate. No project is too big or too tight in timeframe for us to tackle!
