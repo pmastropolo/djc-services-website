@@ -33,7 +33,7 @@
             },
             {
                 "label": "Past Projects",
-                "link": "/projects-2",
+                "link": "/past-projects",
                 "children": []
             },
             {
@@ -93,7 +93,7 @@
     },
     "footer": {
       "logo": {
-        "image": "/img/fot.png",
+        "image": "/img/djcservices-llc-logo-black-font",
         "alt": "DJCservices Brand Logo"
       },
       "info": {
