@@ -63,7 +63,7 @@ const DefaultFooter = () => {
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="currentColor">
         <path d="M12 2C6.48 2 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm.5-13h-2v6l5.25 3.15.75-1.23-4.5-2.67z"/>
     </svg>
-                <p>Monday-Sunday 8:00AM-6:00PM</p>
+        
 
 
 
@@ -72,7 +72,27 @@ const DefaultFooter = () => {
                 </div>
             </div>
 
+
+
+
             <div className="col-lg-4 col-md-6 col-sm-12">
+                <div className="footer-col">
+                    <h3>Stay Updated</h3>
+                    <p>Subscribe for Exclusive Updates and Expert Insights.</p>
+                    <form action={appData.settings.mailchimp.url} method="post" target="_blank">
+                        <input type="email" name="EMAIL" placeholder="Enter your email." required />
+                        <input type="hidden" name={appData.settings.mailchimp.key} />
+                        <button type="submit">
+                            <i className="fa-solid fa-arrow-up-long" />
+                        </button>
+                    </form>
+                </div>
+            </div>
+
+            
+
+
+            <div className="col-lg-4 col-md-6 col-sm-12 mt-4">
     <div className="footer-col service-areas">
         <h3>Service Areas</h3>
         <p>We proudly offer our services in the following areas:</p>
@@ -91,23 +111,43 @@ const DefaultFooter = () => {
         </ul>
     </div>
 </div>
+
+
+<div className="col-lg-4 col-md-6 col-sm-12 mt-4">
+    <div className="footer-col service-areas">
+        <h3>Services</h3>
+        <ul>
+            <li></li>
+            <li><a href="/services/Bathroom-renovation">Bathroom Renovation</a></li>
+            <li><a href="/services/Carpentry">Carpentry</a></li>
+            <li><a href="/services/Deck-and-patio">Deck & Patio</a></li>
+            <li><a href="/services/Flooring">Flooring</a></li>
+            <li><a href="/services/Kitchen">Kitchen</a></li>
+
+        </ul>
+    </div>
+</div>
+
+<div className="col-lg-4 col-md-6 col-sm-12 mt-4">
+    <div className="footer-col service-areas">
+        <h3>Hours of Operation</h3>
+        <ul>
+            <li></li>
+            <li>Sunday: 8:00am - 6:00pm</li>
+<li>Monday: 8:00am - 6:00pm</li>
+<li>Tuesday: 8:00am - 6:00pm</li>
+<li>Wednesday: 8:00am - 6:00pm</li>
+<li>Thursday: 8:00am - 6:00pm</li>
+<li>Friday: 8:00am - 6:00pm</li>
+<li>Saturday: 8:00am - 6:00pm</li>
+        </ul>
+    </div>
+</div>
             
    
     
 
-            <div className="col-lg-4 col-md-6 col-sm-12">
-                <div className="footer-col">
-                    <h3>Stay Updated</h3>
-                    <p>Subscribe for Exclusive Updates and Expert Insights.</p>
-                    <form action={appData.settings.mailchimp.url} method="post" target="_blank">
-                        <input type="email" name="EMAIL" placeholder="Enter your email." required />
-                        <input type="hidden" name={appData.settings.mailchimp.key} />
-                        <button type="submit">
-                            <i className="fa-solid fa-arrow-up-long" />
-                        </button>
-                    </form>
-                </div>
-            </div>
+
             </div>
         </div>
         </div>

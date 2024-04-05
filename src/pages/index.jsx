@@ -13,10 +13,6 @@ import CallToActionSection from "@components/sections/CallToAction";
 import ContactFormSection from "@components/sections/ContactForm";
 import LatestPosts2Section from "@components/sections/LatestPosts2";
 
-
-const ProjectsSlider = dynamic( () => import("@components/sliders/Projects"), { ssr: false } );
-
-
 const Home3 = (props) => {
   return (
     <Layouts contactButton cartButton>
@@ -26,7 +22,6 @@ const Home3 = (props) => {
         <About3Section />
         <ServicesSection />
         <CallToActionSection />
-        <ProjectsSlider projects={props.projects} />
         <ContactFormSection />
         <LatestPosts2Section posts={props.posts} />
       </>
