@@ -32,6 +32,11 @@
               "children": []
             },
             {
+              "label": "Core Values",
+              "link": "/core-values",
+              "children": []
+          },
+            {
                 "label": "Past Projects",
                 "link": "/past-projects",
                 "children": []
@@ -97,7 +102,7 @@
         "alt": "DJCservices Brand Logo"
       },
       "info": {
-        "address": "Helena AL",
+        "address": "Helena, AL",
         "tel": "(205) 337-3384",
         "email": "djc.services.llc.al@gmail.com"
       },

@@ -10,7 +10,6 @@ import About3Section from "@components/sections/About3";
 import AboutSection from "@components/sections/About";
 import ServicesSection from "@components/sections/Services";
 import CallToActionSection from "@components/sections/CallToAction";
-import LocationsSection from "@components/sections/Locations";
 import ContactFormSection from "@components/sections/ContactForm";
 import LatestPosts2Section from "@components/sections/LatestPosts2";
 
@@ -28,7 +27,6 @@ const Home3 = (props) => {
         <ServicesSection />
         <CallToActionSection />
         <ProjectsSlider projects={props.projects} />
-        <LocationsSection />
         <ContactFormSection />
         <LatestPosts2Section posts={props.posts} />
       </>

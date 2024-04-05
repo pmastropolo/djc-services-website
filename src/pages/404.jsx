@@ -12,14 +12,7 @@ const E404 = () => {
               <div className="sb-404__num">404</div>
               <h1 className="sb-404__title">Oops! Where are we?</h1>
               <p className="sb-404__description"> We are unable to find the page you are looking for.</p> 
-              {/* search form */}
-              <form role="search" method="get" className="search-form" action=""> 
-                <label> 
-                  <span className="screen-reader-text">Search for:</span> 
-                  <input type="search" className="search-field" placeholder="Search …" name="s" title="Search for:" /> 
-                </label> 
-                <input type="submit" className="search-submit" value="Search" />
-              </form> 
+
               {/* button */} 
               <Link href="/" className="theme-btn"> 
                 <span>Back to Home</span> 

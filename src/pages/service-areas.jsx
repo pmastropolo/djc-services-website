@@ -1,16 +1,53 @@
 import Layouts from "@layouts/Layouts";
+import Link from "next/link";
+
+import { getSortedLocationsData } from "@library/locations";
+
 import PageBanner from "@components/PageBanner";
 
-const ServiceAreas = () => {
+const ServiceAreas = (props) => {
   return (
     <Layouts>
-      <PageBanner pageTitle={"Service Areas"} pageDesc={"Alabama"} />
+      <PageBanner pageTitle={"Service Areas"} pageDesc={"Service Areas"} />
 
-     
+      {/* Our Locations Two Start */}
+      <section className="gap project-style-one addition">
+        <div className="container">
+          <div className="row project-slider">
+            {props.locations.map((item, key) => (
+            <div key={`locations-item-${key}`} className="col-lg-6">
+              <div className="project-post">
+              <figure>
+                  <img className="w-100" src={item.image} alt={item.title} />
+                </figure>
+                <div className="project-data">
+                    <h3><Link href={`/locations/${item.id}`}>{item.title}</Link></h3>
+                    <p>{item.short}</p>
+                    <Link className="location-icon" href={`/locations/${item.id}`}>
+                      <i className="fa-solid fa-angles-right" />
+                    </Link>
+                </div>
+              </div>
+            </div>
+            ))}
+          </div>
+        </div>
 
-
+       
+      </section>
+      {/* Our location Two End */}
+      
     </Layouts>
   );
 };
-
 export default ServiceAreas;
+
+export async function getStaticProps() {
+  const allLocations = getSortedLocationsData();
+
+  return {
+    props: {
+      locations: allLocations
+    }
+  }
+}
