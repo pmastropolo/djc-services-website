@@ -165,9 +165,7 @@ const DefaultFooter = () => {
                 <a>Privacy Policy</a>
                 </Link>
                 <span> | </span> 
-                <Link href="/site-map" legacyBehavior>
-                <a>Site Map</a>
-                </Link>
+                <a href="https://djcservicesllc.com/sitemap.xml" target="_blank" rel="noopener noreferrer">Sitemap</a>
                 </div>
 
                 <p dangerouslySetInnerHTML={{ __html: appData.footer.copy }} />

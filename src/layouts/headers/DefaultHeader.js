@@ -201,10 +201,10 @@ const DefaultHeader = ({ contactButton, cartButton }) => {
 
           <div className="mobile-nav desktop-menu">
             <h2>Excellence in Construction</h2>
-            <p className="des">DJCservices LLC masters complex projects with enduring quality and innovative techniques. We build superior homes and buildings, guaranteed.</p>
+            <p className="des">DJCservices LLC delivers top-quality, innovative construction. Every home and building is built to last, guaranteed.</p>
             
             <figure>
-              <img src="/img/about-image.png" alt="image" />
+              <img src="/img/side-banner.png" alt="About DJCServices LLC Construction & Remodeling, Bonded, Family Owned, Insured, Licensed in Helena Alabama" />
             </figure>
 
             <h3>Get in touch</h3>

@@ -8,7 +8,7 @@ category:
 #full details
 author:
     name: "Dennis Carlisle"
-    avatar: "/img/u.png"
+    avatar: "/img/blog-author-dennis.png"
 
 gallery:
     enabled: 1

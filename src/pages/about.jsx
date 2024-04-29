@@ -59,7 +59,7 @@ const About = () => {
       <section className="gap about-how-it-works light-bg-color">
         <div className="heading">
           <figure>
-            <img src="/images/heading-icon.png" alt="Heading Icon" />
+            <img src="/img/djc-services-llc-mini-logo.png" alt="Heading Icon DJCservices LLC Construction and Remodeling Alabama" />
           </figure>
           <span>Construction and Remodeling Process</span>
           <h2>How it Works</h2>

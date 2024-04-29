@@ -2,8 +2,8 @@
     "settings": {
       "siteName": "DJCservices LLC",
       "preloader": {
-        "image": "/img/fot.png",
-        "alt": "DJCservices Brand Logo"
+        "image": "/img/footer-small-mini-djc-services-logo.png",
+        "alt": "DJCservices LLC Brand Logo"
       },
       "formspreeURL": "https://formspree.io/f/your_api_key",
       "mailchimp": {
@@ -98,13 +98,13 @@
     },
     "footer": {
       "logo": {
-        "image": "/img/djcservices-llc-logo-black-font",
+        "image": "/img/footer-small-mini-djc-services-logo.png",
         "alt": "DJCservices Brand Logo"
       },
       "info": {
         "address": "Helena, AL",
         "tel": "(205) 337-3384",
-        "email": "djc.services.llc.al@gmail.com"
+        "email": "djc.servicesalabama@gmail.com"
       },
       "copy": "DJCservices LLC <i class='fa-solid fa-heart'></i> © 2024 All rights reserved"
     },

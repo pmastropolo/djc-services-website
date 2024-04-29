@@ -2,6 +2,10 @@
 
 Welcome to the DJC Services Website project repository! This README provides you with all the necessary information to get started with the development, build, and deployment of your local copy of the DJC Services Website. DJC Services is a premier construction and remodeling company based in Helena, Alabama, dedicated to providing top-notch services to our clients. This website serves as the digital storefront for our business, showcasing our services, projects, and enabling potential clients to get in touch.
 
+## Netlify Production
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/72f8104a-a90d-465d-861e-4386bda3b0b6/deploy-status)](https://app.netlify.com/sites/djcservicesllc/deploys)
+
 ## Project Information
 
 **Website Link:** [https://djcservicesllc.netlify.app/](https://djcservicesllc.netlify.app/)
