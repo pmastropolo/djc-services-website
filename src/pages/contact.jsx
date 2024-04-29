@@ -5,7 +5,7 @@ import appData from "@data/app.json";
 
 const MailchimpForm = () => {
     return (
-      <div className="mailchimp-form-container">
+        <div className="mailchimp-form-container">
         <iframe 
           src="http://eepurl.com/iO17SU" 
           width="100%" 
