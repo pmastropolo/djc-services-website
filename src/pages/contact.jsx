@@ -7,7 +7,7 @@ const MailchimpForm = () => {
     return (
         <div className="mailchimp-form-container">
         <iframe 
-          src="http://eepurl.com/iO17SU" 
+          src="https://eepurl.com/iO17SU" 
           width="100%" 
           height="1400px" 
           style={{ border: "none", overflow: "hidden" }}

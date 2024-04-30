@@ -1,4 +1,5 @@
 import Document, { Html, Head, Main, NextScript } from "next/document";
+import Script from 'next/script';
 
 class MyDocument extends Document {
   render() {
@@ -8,6 +9,7 @@ class MyDocument extends Document {
           {/* meta begin */}
           <meta charSet="UTF-8" />
           <meta httpEquiv="X-UA-Compatible" content="ie=edge" />
+          
           {/* meta end */}
 
           {/* favicon begin */}
@@ -25,6 +27,14 @@ class MyDocument extends Document {
           <link rel="stylesheet" href="/css/fontawesome.min.css" />
           <link rel="stylesheet" href="/css/magnific-popup.css" />
           {/* public assets end */}
+
+          <Script 
+  src="https://chimpstatic.com/mcjs-connected/js/users/efcfec60b837c71d5e756a138/96beb85639cbd8c95d34d9c80.js"
+  strategy="afterInteractive" 
+/>
+
+
+
         </Head>
         <body>
           <Main />
