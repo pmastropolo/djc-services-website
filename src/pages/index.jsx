@@ -21,7 +21,6 @@ const Home3 = (props) => {
         <AboutSection />
         <About3Section />
         <ServicesSection />
-        <CallToActionSection />
         <ContactFormSection />
         <LatestPosts2Section posts={props.posts} />
       </>
