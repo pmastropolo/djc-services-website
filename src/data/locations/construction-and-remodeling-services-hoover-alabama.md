@@ -1,6 +1,5 @@
 ---
 title: "Hoover Alabama | Construction & Remodeling Services"
-image: "/img/locations/hoover-alabama-construction-and-remodeling.png"
 description: "Hoover Crafted Homes specializes in exceptional construction and remodeling services in Hoover, Alabama, delivering personalized and innovative home solutions tailored to your unique lifestyle."
 servicesOffered:
   - Contemporary Kitchen Upgrades

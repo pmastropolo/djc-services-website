@@ -1,6 +1,5 @@
 ---
 title: "Helena Alabama | Construction & Remodeling Services"
-image: "/img/locations/construction-and-remodeling-services-in-helena-alabama-banner-image.png"
 description: "Leading construction and remodeling services in Helena, Alabama, offering tailored solutions for your home."
 servicesOffered:
   - Kitchen Remodeling

@@ -1,6 +1,5 @@
 ---
 title: "Pelham Alabama | Construction & Remodeling Services"
-image: "/img/locations/tgtg.png"
 description: "Pelham Home Solutions offers state-of-the-art construction and remodeling services in Pelham, Alabama, specializing in creating dynamic living spaces that meet the evolving needs of modern homeowners."
 servicesOffered:
   - Modern Kitchen Makeovers

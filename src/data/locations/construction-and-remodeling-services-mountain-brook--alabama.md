@@ -1,6 +1,5 @@
 ---
 title: "Mountain Brook Alabama | Construction & Remodeling Services"
-image: "/img/locations/rr.png"
 description: "Mountain Brook Builders provides exquisite construction and remodeling services in Mountain Brook, Alabama, crafting luxurious living spaces that embody sophistication and timeless elegance."
 servicesOffered:
   - High-End Kitchen Renovations

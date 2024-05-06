@@ -1,6 +1,5 @@
 ---
 title: "Hueytown Alabama | Construction & Remodeling Services"
-image: "/img/locations/leading-construction-and-remodeling-in-hueytown-alabama.png"
 description: "Hueytown Home Innovators is your premier destination for top-tier construction and remodeling services in Hueytown, Alabama, offering custom solutions to elevate your living space to match your dreams."
 servicesOffered:
   - Chic Kitchen Remodels

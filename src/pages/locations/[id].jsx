@@ -7,7 +7,6 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { getSortedLocationsData, getAllLocationsIds, getLocationData, getRelatedLocations } from "@library/locations";
 
 import RelatedLocationsSection from "@components/RelatedLocations";
-import CallToActionSection from "@components/sections/CallToAction";
 
 const LocationDetail = ( props ) => {
   
@@ -32,14 +31,10 @@ const LocationDetail = ( props ) => {
 
   return (
     <Layouts>
-      <PageBanner pageTitle={"Service Areas"} pageDesc={"At DJCservices LLC, we bring your dream spaces to life with warmth, craftsmanship, and a personal touch that makes all the difference."} />
+    <PageBanner pageTitle={"Service Areas"} pageDesc={"DJCservices LLC transforms your dream spaces with warmth, craftsmanship, and a personal touch."} />
 
       <section className="gap detail-page page-content">
-    <div className="image-container">
-      <figure>
-        <img src={postData.image} alt={postData.title} />
-      </figure>
-    </div>
+
 
 
         <div className="container">
@@ -124,9 +119,7 @@ const LocationDetail = ( props ) => {
               >
                 {postData.slider.items.map((item, key) => (
                 <SwiperSlide key={`pds-slide-${key}`} className="swiper-slide">
-                <figure>
-                  <img src={item.image} alt={item.alt} />
-                </figure>
+
                 </SwiperSlide>
                 ))}
                 <div className="swiper-pagination" />
@@ -138,8 +131,6 @@ const LocationDetail = ( props ) => {
       }
 
       <RelatedLocationsSection locations={props.related} />
-
-      <CallToActionSection />
 
     </Layouts>
   );

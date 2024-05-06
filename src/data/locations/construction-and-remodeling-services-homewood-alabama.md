@@ -1,6 +1,5 @@
 ---
 title: "Homewood Alabama | Construction & Remodeling Services"
-image: "/img/locations/homewood-alabama-construction-and-remodeling.png"
 description: "Homewood Design & Build offers cutting-edge construction and remodeling services in Homewood, Alabama, crafting custom living spaces that perfectly align with your lifestyle and preferences."
 servicesOffered:
   - Modern Kitchen Redesigns

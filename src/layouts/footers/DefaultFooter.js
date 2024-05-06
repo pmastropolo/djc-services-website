@@ -30,10 +30,11 @@ const DefaultFooter = () => {
         <div className="container">
             <div className="row">
             <div className="col-lg-4 col-md-6 col-sm-12">
-                <div className="footer-col">
-                    <h3>Information</h3>
-                    <p>Expert remodeling and construction companies service in Helena, AL and surrounding areas. We provide professional service and offer free quotes. Reach out today to learn how we can help. </p>
-                </div>
+            <div className="footer-col">
+    <h3>DJCServices, LLC</h3>
+    <p>Elevate your property with Helena's premier construction experts. Act now — for free consultations! Experience elite craftsmanship with DJCServices, LLC.</p>
+</div>
+
             </div>
             <div className="col-lg-4 col-md-6 col-sm-12">
                 <div className="footer-col">

@@ -17,9 +17,7 @@ const ServiceAreas = (props) => {
             {props.locations.map((item, key) => (
             <div key={`locations-item-${key}`} className="col-lg-6">
               <div className="project-post">
-              <figure>
-                  <img className="w-100" src={item.image} alt={item.title} />
-                </figure>
+
                 <div className="project-data">
                     <h3><Link href={`/locations/${item.id}`}>{item.title}</Link></h3>
                     <p>{item.short}</p>

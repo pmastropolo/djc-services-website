@@ -16,9 +16,7 @@ const RelatedLocations = ({ locations }) => {
             {locations.slice(0, 2).map((item, key) => (
            <div key={`locations-item-${key}`} className="col-lg-6">
            <div className="location-card">
-             <figure>
-               <img className="location-image" src={item.image} alt={item.title} />
-             </figure>
+
              <div className="location-content">
                <h3 className="location-title">
                  <Link href={`/locations/${item.id}`}>{item.title}</Link>

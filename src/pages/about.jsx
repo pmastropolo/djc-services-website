@@ -66,7 +66,7 @@ const About = () => {
         </div>
         <div className="container">
           <figure style={{"position": "relative", "zIndex": "9"}}>
-            <img className="w-100" src="/img/r.png" alt="About How It Works" />
+            <img className="w-100" src="/img/about-background-banner-image.png" alt="About How It Works" />
           </figure>
         </div>
         <div className="container">

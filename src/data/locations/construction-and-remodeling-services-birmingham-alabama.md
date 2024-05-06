@@ -1,6 +1,5 @@
 ---
 title: "Birmingham Alabama | Construction & Remodeling Services"
-image: "/img/locations/birmingham-alabama-construction-and-remodeling.png"
 description: "At Birmingham Home Innovations, we specialize in transforming your living spaces with custom construction and remodeling services, perfectly tailored to your dreams and needs in Birmingham, Alabama."
 servicesOffered:
   - Gourmet Kitchen Transformations
