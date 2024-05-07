@@ -34,7 +34,7 @@ const ContactFormSection = () => {
                             <iframe 
                                 src="https://eepurl.com/iO17SU" 
                                 width="100%" 
-                                height="1500px" 
+                                height="1340px" 
                                 style={{ border: "none", overflow: "hidden" }}
                                 scrolling="no"
                                 frameBorder="0">

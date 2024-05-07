@@ -3,7 +3,7 @@ title: 'Deck Redesign: Your Outdoor Retreat'
 date: '2023-09-12'
 image: "/img/deck-and-patio-banner-for-blog.png"
 category:
-    - Exterior Remodeling and Construction
+    - Exterior
 
 #full details
 author:

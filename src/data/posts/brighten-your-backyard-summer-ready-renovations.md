@@ -3,7 +3,7 @@ title: 'Summer-Ready Backyard Renovations'
 date: '2023-04-15'
 image: "/img/brighten-your-backyard-blog-banner.png"
 category:
-    - Exterior Remodeling and Construction
+    - Exterior
 
 #full details
 author:

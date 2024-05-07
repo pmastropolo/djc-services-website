@@ -5,7 +5,7 @@ date: '2023-02-24'
 image: "/img/kitchen-remodel-blog-banner.png"
 alt: "Modern Kitchen Remodel Transformation by DJC Services"
 category:
-    - Interior Remodeling and Construction
+    - Interior
 
 #full details
 author:

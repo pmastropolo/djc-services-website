@@ -1,6 +1,6 @@
 ---
 #preview details
-image: "img/serv-i-5.svg"
+image: "img/bathroom-icon.svg"
 title: "Bathroom Renovation"
 short: "Transform Your Daily Routine into a Luxurious Escape."
 

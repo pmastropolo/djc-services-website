@@ -3,7 +3,7 @@ title: 'Doorway Dreams and Deck Delights'
 date: '2023-10-23'
 image: "/img/backyard-blog-banner.png"
 category:
-    - Exterior Remodeling and Construction
+    - Exterior
 
 #full details
 author:

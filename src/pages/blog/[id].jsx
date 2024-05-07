@@ -1,5 +1,5 @@
 import Layouts from "@layouts/Layouts";
-
+import { useState } from 'react';
 import { getAllPostsIds, getPostData, getRelatedPosts } from "@library/posts";
 import Date from '@library/date';
 import ImageView from "@components/ImageView";
@@ -9,6 +9,16 @@ import PageBanner from "@components/PageBanner";
 const PostsDetail = ( props ) => {
   
   const postData = props.data;
+  const [shareUrl, setShareUrl] = useState('');
+
+  const handleFacebookShare = (e) => {
+    e.preventDefault();
+    // Construct the share URL
+    const url = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(window.location.href)}`;
+    setShareUrl(url); // Set the share URL in state
+    // Open the Facebook share dialog
+    window.open(url, '_blank', 'width=600,height=400');
+  };
 
   return (
     <Layouts>
@@ -68,17 +78,23 @@ const PostsDetail = ( props ) => {
                   </>
                 }
 
-                <div className="category shape">
-                  <p>Posted in {postData.category.map((cat, key) => (<a key={`category-item-${key}`}>{cat}</a>))}</p>
-                </div>
+<div className="category shape">
+  <p>Posted in {
+    Array.isArray(postData.category) ? 
+    postData.category.map((cat, key) => (
+      <a key={`category-item-${key}`} href={`/category/${cat}`}>{cat}</a>
+    )) : 
+    <a href={`/category/${postData.category}`}>{postData.category}</a>
+  }</p>
+</div>
 
-                <div className="category shape social-medias">
-                    <p>
-                      Share this:
-                    </p>
-                    <ul>
-                      <li><a href="#" onClick={(e) => {e.preventDefault();}}>Facebook</a></li>
-                    </ul>
+<div className="category shape social-medias">
+                  <p>
+                    Share this:
+                  </p>
+                  <ul>
+                    <li><a href="#" onClick={handleFacebookShare}>Facebook</a></li>
+                  </ul>
                 </div>
               </div>
             </div>
@@ -109,20 +125,16 @@ const PostsDetail = ( props ) => {
                   </ul>
                 </div>
                 <div className="box categories">
-                  <h3>Categories</h3>
-                  <ul>
-                    <li>
-                      <a href="#" onClick={(e) => {e.preventDefault();}}>
-                        <p>Interior</p>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#" onClick={(e) => {e.preventDefault();}}>
-                        <p>Exterior</p>
-                      </a>
-                    </li>
-                  </ul>
-                </div>
+  <h3>Categories</h3>
+  <ul>
+    <li>
+      <a href="#">Interior</a>
+    </li>
+    <li>
+      <a href="#">Exterior</a>
+    </li>
+  </ul>
+</div>
 
         
               </aside>

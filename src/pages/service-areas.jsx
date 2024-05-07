@@ -1,7 +1,12 @@
 import Layouts from "@layouts/Layouts";
 import Link from "next/link";
 
+
 import { getSortedLocationsData } from "@library/locations";
+
+import RenovationSection from "@components/sections/Renovation";
+
+import CallToActionSection from "@components/sections/CallToAction";
 
 import PageBanner from "@components/PageBanner";
 
@@ -34,6 +39,10 @@ const ServiceAreas = (props) => {
        
       </section>
       {/* Our location Two End */}
+
+      <RenovationSection />
+
+      <CallToActionSection />
       
     </Layouts>
   );

@@ -113,7 +113,7 @@ const Services = (props) => {
       <section className="gap service-style-two">
         <div className="heading">
           <figure>
-            <img src="/img/fff.png" alt="heading-icon" />
+            <img src="/img/footer-small-mini-djc-services-logo.png" alt="DJCServices LLC Construction and Remodeling Heading Logo Icon" />
           </figure>
           <span>Construction and Remodeling</span>
           <h2>Premium Services</h2>

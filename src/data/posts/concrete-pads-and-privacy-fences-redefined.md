@@ -3,7 +3,7 @@ title: 'Concrete Pads & Privacy Fences'
 date: '2023-08-17'
 image: "/img/exterior-remodel-blog-banner.png"
 category:
-    - Exterior Remodeling and Construction
+    - Exterior
 
 #full details
 author:

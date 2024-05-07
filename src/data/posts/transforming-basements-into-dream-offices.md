@@ -3,7 +3,7 @@ title: 'Transform Basements into Dream Offices'
 date: '2023-03-18'
 image: "/img/basement-renovations-blog-banner.png"
 category:
-    - Interior Remodeling and Construction
+    - Interior
 
 #full details
 author:

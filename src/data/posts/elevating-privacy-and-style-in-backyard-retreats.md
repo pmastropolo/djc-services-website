@@ -3,7 +3,7 @@ title: 'Privacy and Style in Backyard Retreats'
 date: '2023-12-27'
 image: "/img/privacy-fence-blog-banner.png"
 category:
-    - Exterior Remodeling and Construction
+    - Exterior
 
 #full details
 author:

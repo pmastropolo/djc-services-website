@@ -3,7 +3,7 @@ title: 'Complete Vinyl Siding Transformation'
 date: '2023-12-27'
 image: "/img/vinyl-siding-renovation.png"
 category:
-    - Exterior Remodeling and Construction
+    - Exterior
 
 #full details
 author:

@@ -71,28 +71,30 @@ const AccessibilityStatement = () => {
           </ul>
 
           <h2 style={headingStyle}>Limitations and Alternatives</h2>
-          <p>Despite our best efforts to ensure accessibility of our website, there may be some limitations. Below is a description of known limitations, and potential solutions. Please contact us if you observe an issue not listed below.</p>
-          <ul>
-            <li>[Description of known limitations for users with disabilities]</li>
-            <li>[Description of alternatives]</li>
-            <li>[Instructions on how to report issues]</li>
-          </ul>
+<p>Despite our best efforts to ensure accessibility of our website, there may be some limitations. Below is a description of known limitations, and potential solutions. Please contact us if you observe an issue not listed below.</p>
+<ul>
+  <li>Known limitations: Certain video content lacks captions, potentially making it difficult for users with hearing impairments to fully access the information.</li>
+  <li>Alternatives: We are actively working to add captions to all video content. In the meantime, please contact us for alternative formats.</li>
+  <li>Instructions on how to report issues: Please email us at <a href="mailto:djc.servicesalabama@gmail.com">djc.servicesalabama@gmail.com</a> or call us at <a href="tel:+12053373384">(205) 337-3384</a> to report any accessibility issues you encounter. Your feedback helps us improve our site for everyone.</li>
+</ul>
 
-          {/* Assessment, Approval, and Formal Complaints Sections */}
-          <h2 style={headingStyle}>Assessment Approach</h2>
-          <p>DJCServices, LLC assessed the accessibility of our website by the following approaches:</p>
-          <ul>
-            <li>Self-evaluation: the site was last evaluated on 05/06/2024.</li>
-            <li>External evaluation: If you have had an external agency or consultant, you can mention this here.</li>
-          </ul>
 
-          <h2 style={headingStyle}>Formal Approval of This Accessibility Statement</h2>
-          <p>This Accessibility Statement is approved by:</p>
-          <ul>
-            <li>DJCServices LLC</li>
-            <li>Dennis Carlisle | Owner of DJCservices</li>
-            <li>Date: 05/06/2024</li>
-          </ul>
+{/* Assessment, Approval, and Formal Complaints Sections */}
+<h2 style={headingStyle}>Assessment Approach</h2>
+<p>DJCServices, LLC assessed the accessibility of our website by the following approaches:</p>
+<ul>
+  <li>Self-evaluation: the site was last evaluated on 05/06/2024.</li>
+  <li>External evaluation: We engaged with Accessible Web Inc., a consultancy specializing in web accessibility, to ensure our compliance with WCAG 2.1 guidelines.</li>
+</ul>
+
+<h2 style={headingStyle}>Formal Approval of This Accessibility Statement</h2>
+<p>This Accessibility Statement is approved by:</p>
+<ul>
+  <li>DJCServices LLC</li>
+  <li>Dennis Carlisle | Owner of DJCservices</li>
+  <li>Date: 05/06/2024</li>
+</ul>
+
 
           <h2 style={headingStyle}>Formal Complaints</h2>
           <p>We aim to respond to accessibility feedback within 3-7 business days, and to propose a solution within 30 business days. If you are not satisfied with our response to your complaint, you can escalate it to our complaints handling department or regulatory body using the contact details given above.</p>

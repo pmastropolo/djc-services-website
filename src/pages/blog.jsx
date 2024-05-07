@@ -2,6 +2,8 @@ import { PER_PAGE } from './blog/page/[page]'
 import PaginatedBlog from '@components/PaginatedBlog'
 import Pagination from '@components/Pagination'
 
+import CallToActionSection from "@components/sections/CallToAction";
+
 import PageBanner from "@components/PageBanner";
 import Layouts from "@layouts/Layouts";
 
@@ -34,6 +36,8 @@ const Blog = ( { posts, totalPosts, currentPage } ) => {
         </div>
       </section>
       {/* Blog Style One End */}
+
+      <CallToActionSection />
       
     </Layouts>
   );

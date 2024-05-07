@@ -22,7 +22,7 @@ const E404 = () => {
             <div className="col-lg-6">
               <div className="sb-404__img">
                 <figure>
-                  <img src="/img/building-2.png" alt="404" className="sb-man" />
+                  <img src="/img/404-page-home-image.png" alt="404" className="sb-man" />
                 </figure>
               </div>
             </div>
