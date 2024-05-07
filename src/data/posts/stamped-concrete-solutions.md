@@ -2,8 +2,7 @@
 title: 'Innovative Stamped Concrete Solutions'
 date: '2023-02-03'
 image: "/img/stamped-concrete-blog-banner.png"
-category:
-    - Exterior
+category: Exterior
 
 #full details
 author:

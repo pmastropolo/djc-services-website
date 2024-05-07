@@ -2,8 +2,7 @@
 title: 'Back Patio Makeover: From Vision to Reality'
 date: '2023-09-08'
 image: "/img/back-patio-blog-banner.png"
-category:
-    - Exterior
+category: Exterior
 
 #full details
 author:

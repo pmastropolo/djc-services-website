@@ -2,8 +2,7 @@
 title: 'Screened Sanctuary: Patio, Bedroom, & Office'
 date: '2023-10-13'
 image: "/img/bedroom-and-home-office-renovation-blog-banner.png"
-category:
-    - Interior
+category: Interior
 
 #full details
 author:

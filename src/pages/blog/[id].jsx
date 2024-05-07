@@ -2,6 +2,7 @@ import Layouts from "@layouts/Layouts";
 import { useState } from 'react';
 import { getAllPostsIds, getPostData, getRelatedPosts } from "@library/posts";
 import Date from '@library/date';
+import Link from 'next/link';
 import ImageView from "@components/ImageView";
 
 import PageBanner from "@components/PageBanner";
@@ -10,6 +11,7 @@ const PostsDetail = ( props ) => {
   
   const postData = props.data;
   const [shareUrl, setShareUrl] = useState('');
+  const categories = ['Interior', 'Exterior'];
 
   const handleFacebookShare = (e) => {
     e.preventDefault();
@@ -125,15 +127,16 @@ const PostsDetail = ( props ) => {
                   </ul>
                 </div>
                 <div className="box categories">
-  <h3>Categories</h3>
-  <ul>
-    <li>
-      <a href="#">Interior</a>
-    </li>
-    <li>
-      <a href="#">Exterior</a>
-    </li>
-  </ul>
+      <h3>Categories</h3>
+      <ul>
+        {categories.map((cat, index) => (
+          <li key={`category-${index}`}>
+            <Link href={`/category/${cat}`} legacyBehavior>
+              <a>{cat}</a>
+            </Link>
+          </li>
+        ))}
+      </ul>
 </div>
 
         

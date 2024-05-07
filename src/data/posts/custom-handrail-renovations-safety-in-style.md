@@ -3,8 +3,7 @@
 title: 'Safety in Style with DJCservices'
 date: '2024-02-01'
 image: "/img/handrail-renovations.png"
-category:
-    - Exterior
+category: Exterior
 
 #full details
 author:
