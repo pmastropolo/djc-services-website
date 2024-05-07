@@ -7,7 +7,7 @@ category: Exterior
 #full details
 author:
     name: "Dennis Carlisle"
-    avatar: "/img/blog-author-dennis.png"
+    avatar: "/img/blog/blog-author-dennis.png"
 
 gallery:
     enabled: 1
@@ -26,8 +26,8 @@ gallery:
 additional:
     enabled: 1
     content: "
-        <h5>Unveiling the Ultimate Backyard Makeover</h5>
-        <p>Discover the art of backyard transformation with our comprehensive makeover services. From the foundational elegance of concrete pads to the serene privacy of custom fences and the luxurious comfort of outdoor living spaces, we're dedicated to turning your outdoor area into a haven of relaxation and entertainment. Embrace the opportunity to redefine your backyard experience. Let's craft your dream space together.</p>
+        <h3>Unveiling the Ultimate Backyard Makeover</h3>
+        <p>Embark on a journey of backyard transformation with us! From the foundational elegance of concrete pads to the serene privacy of custom fences, and the luxurious comfort of outdoor living spaces, we're dedicated to turning your outdoor area into a haven of relaxation and entertainment. Let's craft your dream space together.</p>
     "
 ---
 
@@ -50,12 +50,14 @@ Next, we're set to transform an outdoor area into an enviable retreat, complete 
 
 Our dedication goes beyond the build. We bring dreams to life with a personal touch that turns projects into lifelong partnerships. Here’s why you'll love working with us:
 
-- Tailored Transformations: Your vision is unique, and so is our approach. From the initial design to the final touches, we tailor each project to fit your dreams perfectly.
-- Quality That Lasts: We believe in doing it right the first time. Our use of high-quality materials and attention to detail means you enjoy a stunning, durable space for years to come.
-- A Team You Can Trust: We’re more than builders; we’re dream makers. Our team is committed, professional, and ready to go the extra mile to ensure your satisfaction.
+- **Tailored Transformations:** Your vision is unique, and so is our approach. From concept to completion, we tailor each project to fit your dreams perfectly.
 
-### Ready for a Backyard Revolution?
+- **Quality That Endures:** We believe in doing it right the first time. Using premium materials and meticulous attention to detail, we ensure your backyard space stands the test of time.
 
-Don't let another day pass dreaming of the perfect outdoor space. Make it a reality with us! Contact us at 205-337-3384 for your free estimate and start your journey to an extraordinary backyard. Whether it's creating a private oasis, laying the foundation for family memories, or building the ultimate entertainment hub, we're here to bring your vision to life. Choose us, and let's create something spectacular together. Your backyard transformation is just a call away—dare to dream big!
+- **A Team You Can Count On:** More than builders, we're dream makers. Our dedicated team is committed to exceeding your expectations, every step of the way.
 
-> “Elevate your backyard into a private oasis and entertainment paradise with our custom transformations. Experience the blend of luxury, comfort, and functionality.”
+### Ready to Redefine Your Backyard?
+
+Don't let another day pass dreaming of the perfect outdoor space. Contact us at [Your Phone Number] for a free estimate and embark on your journey to an extraordinary backyard. Let's transform your vision into a breathtaking reality—one backyard at a time.
+
+**Elevate Your Backyard into an Oasis of Luxury and Entertainment!**
