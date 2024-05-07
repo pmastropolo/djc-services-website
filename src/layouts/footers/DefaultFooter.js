@@ -21,26 +21,26 @@ const DefaultFooter = () => {
                 </div>
                 <Link href="/contact" className="theme-btn">
                 Book My Quote <i className="fa-solid fa-angles-right" />
-                </Link>
+              </Link>
             </div>
-            </div>
+          </div>
         </div>
-        </div>
+      </div>
+
         <div className="footer-p-2">
         <div className="container">
-            <div className="row">
+          <div className="row">
             <div className="col-lg-4 col-md-6 col-sm-12">
-            <div className="footer-col">
-    <h3>DJCServices, LLC</h3>
-    <p>Elevate your property with Helena's premier construction experts. Act now — for free consultations! Experience elite craftsmanship with DJCServices, LLC.</p>
-</div>
-
+              <div className="footer-col">
+                <h3>DJCServices, LLC</h3>
+                <p>Elevate your property with Helena's premier construction experts. Act now — for free consultations! Experience elite craftsmanship with DJCServices, LLC.</p>
+              </div>
             </div>
             <div className="col-lg-4 col-md-6 col-sm-12">
-                <div className="footer-col">
-                    <h3>Contact</h3>
-                    <ul>
-                        <li>
+              <div className="footer-col">
+                <h3>Contact</h3>
+                <ul>
+                  <li>
                             <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width="79" height="94" viewBox="0 0 79 94"> <defs> <clipPath id="clip-location_B"> <rect width="79" height="94"/> </clipPath> </defs> <g id="location_B" data-name="location B" clipPath="url(#clip-location_B)"> <path id="Path_121" data-name="Path 1" d="M962.855,575.375a3,3,0,0,1-2.1-.861l-26.263-25.826c-11.03-11.993-13.791-27.653-7.492-42a38.334,38.334,0,0,1,34.959-23.117l1.346.009c15.262,0,27.868,8.452,33.722,22.609,6.152,14.878,3.046,31.554-7.912,42.485-.528.555-24.064,25.75-24.064,25.75a3,3,0,0,1-2.129.951Zm-.9-85.8A31.924,31.924,0,0,0,932.49,509.1c-5.313,12.1-2.954,25.342,6.31,35.419l23.963,23.559c15.027-16.085,20.179-21.585,22.274-23.488l-.164-.165c9.233-9.209,11.825-23.318,6.605-35.944a29.677,29.677,0,0,0-28.177-18.9Z" transform="translate(-922.725 -482.15)"/> <path id="Path_23" data-name="Path 2" d="M15,6a9,9,0,1,0,9,9,9.01,9.01,0,0,0-9-9m0-6A15,15,0,1,1,0,15,15,15,0,0,1,15,0Z" transform="translate(25 26)"/> </g> </svg>
                             <p>{appData.footer.info.address}</p>
                         </li>
