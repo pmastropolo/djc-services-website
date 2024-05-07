@@ -96,20 +96,19 @@ const DefaultFooter = () => {
             <div className="col-lg-4 col-md-6 col-sm-12 mt-4">
     <div className="footer-col service-areas">
         <h3>Service Areas</h3>
-        <p>We proudly offer our services in the following areas:</p>
-        <ul>
-            <li></li>
-            <li><a href="/locations/construction-and-remodeling-services-helena-alabama">Helena, AL</a></li>
-            <li><a href="/locations/construction-and-remodeling-services-birmingham-alabama">Birmingham, AL</a></li>
-            <li><a href="/locations/construction-and-remodeling-services-hoover-alabama">Hoover, AL</a></li>
-            <li><a href="/locations/construction-and-remodeling-services-vestavia-hills-alabama">Vestavia Hills, AL</a></li>
-            <li><a href="/locations/construction-and-remodeling-services-alabaster-alabama">Alabaster, AL</a></li>
-            <li><a href="/locations/construction-and-remodeling-services-bessemer-alabama">Bessemer, AL</a></li>
-            <li><a href="/locations/construction-and-remodeling-services-homewood-alabama">Homewood, AL</a></li>
-            <li><a href="/construction-and-remodeling-services-pelham-alabama">Pelham, AL</a></li>
-            <li><a href="/construction-and-remodeling-services-mountain-brook-alabama">Mountain Brook, AL</a></li>
-            <li><a href="/construction-and-remodeling-services-hueytown-alabama">Hueytown, AL</a></li>
-        </ul>
+<ul>
+    <li><a href="/locations/construction-and-remodeling-services-alabaster-alabama">Alabaster, AL</a></li>
+    <li><a href="/locations/construction-and-remodeling-services-bessemer-alabama">Bessemer, AL</a></li>
+    <li><a href="/locations/construction-and-remodeling-services-birmingham-alabama">Birmingham, AL</a></li>
+    <li><a href="/locations/construction-and-remodeling-services-helena-alabama">Helena, AL</a></li>
+    <li><a href="/locations/construction-and-remodeling-services-homewood-alabama">Homewood, AL</a></li>
+    <li><a href="/locations/construction-and-remodeling-services-hueytown-alabama">Hueytown, AL</a></li>
+    <li><a href="/locations/construction-and-remodeling-services-hoover-alabama">Hoover, AL</a></li>
+    <li><a href="/locations/construction-and-remodeling-services-mountain-brook-alabama">Mountain Brook, AL</a></li>
+    <li><a href="/locations/construction-and-remodeling-services-pelham-alabama">Pelham, AL</a></li>
+    <li><a href="/locations/construction-and-remodeling-services-vestavia-hills-alabama">Vestavia Hills, AL</a></li>
+</ul>
+
     </div>
 </div>
 
@@ -118,7 +117,6 @@ const DefaultFooter = () => {
     <div className="footer-col service-areas">
         <h3>Services</h3>
         <ul>
-            <li></li>
             <li><a href="/services/Bathroom-renovation">Bathroom Renovation</a></li>
             <li><a href="/services/Carpentry">Carpentry</a></li>
             <li><a href="/services/Deck-and-patio">Deck & Patio</a></li>
@@ -133,7 +131,6 @@ const DefaultFooter = () => {
     <div className="footer-col service-areas">
         <h3>Hours of Operation</h3>
         <ul>
-            <li></li>
             <li>Sunday: 8:00am - 6:00pm</li>
 <li>Monday: 8:00am - 6:00pm</li>
 <li>Tuesday: 8:00am - 6:00pm</li>

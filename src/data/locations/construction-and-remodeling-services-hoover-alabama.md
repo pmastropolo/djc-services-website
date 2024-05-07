@@ -1,6 +1,6 @@
 ---
 title: "Hoover Alabama | Construction & Remodeling Services"
-description: "Hoover Crafted Homes specializes in exceptional construction and remodeling services in Hoover, Alabama, delivering personalized and innovative home solutions tailored to your unique lifestyle."
+description: "DJCServices specializes in exceptional construction and remodeling services in Hoover, Alabama, delivering personalized and innovative home solutions tailored to your unique lifestyle."
 servicesOffered:
   - Contemporary Kitchen Upgrades
   - Luxurious Bathroom Renovations
@@ -10,9 +10,7 @@ servicesOffered:
 featured: true
 ---
 
-# Custom Construction & Remodeling Mastery in Hoover, Alabama
-
-**Hoover Crafted Homes** is at the forefront of delivering unparalleled construction and remodeling services in Hoover, Alabama. Our dedication to crafting homes that perfectly reflect the personalities and lifestyles of their owners sets us apart. Whether you’re seeking a contemporary kitchen upgrade, a luxurious bathroom renovation, or a completely custom new home, our team of skilled professionals is committed to turning your vision into reality.
+**DJCServices** is at the forefront of delivering unparalleled construction and remodeling services in Hoover, Alabama. Our dedication to crafting homes that perfectly reflect the personalities and lifestyles of their owners sets us apart. Whether you’re seeking a contemporary kitchen upgrade, a luxurious bathroom renovation, or a completely custom new home, our team of skilled professionals is committed to turning your vision into reality.
 
 ## Our Expert Services
 
@@ -36,12 +34,20 @@ Extend your living space outdoors with our custom-designed environments, from el
 
 Enhance your outdoor areas with the beauty and durability of our sophisticated stamped concrete patios, available in a variety of styles and colors.
 
-## Why Hoover Crafted Homes?
+## Why DJCServices?
 
-- **Personalized Service:** At Hoover Crafted Homes, we believe in a personalized approach to every project, ensuring your home reflects your individual taste and lifestyle.
-- **Superior Quality and Craftsmanship:** Leveraging the latest technologies and materials, we deliver superior quality and craftsmanship in all our projects.
-- **Dedicated to Excellence:** Your satisfaction is our priority. We’re dedicated to excellence, ensuring every detail of your project is executed to perfection.
+### Personalized Service
+
+At DJCServices, we believe in a personalized approach to every project, ensuring your home reflects your individual taste and lifestyle.
+
+### Superior Quality and Craftsmanship
+
+Leveraging the latest technologies and materials, we deliver superior quality and craftsmanship in all our projects.
+
+### Dedicated to Excellence
+
+Your satisfaction is our priority. We’re dedicated to excellence, ensuring every detail of your project is executed to perfection.
 
 ## Begin Your Dream Home Journey
 
-If you're in Hoover, Alabama, or the surrounding areas, and dreaming of a custom construction or remodeling project, Hoover Crafted Homes is here to bring your vision to life. Contact us today for a consultation, and let’s create a home that’s uniquely yours.
+If you're in Hoover, Alabama, or the surrounding areas, and dreaming of a custom construction or remodeling project, DJCServices is here to bring your vision to life. Contact us today for a consultation, and let’s create a home that’s uniquely yours.
