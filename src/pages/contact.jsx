@@ -9,7 +9,7 @@ const MailchimpForm = () => {
         <iframe 
           src="https://eepurl.com/iO17SU" 
           width="100%" 
-          height="1345px" 
+          height="1370px" 
           style={{ border: "none", overflow: "hidden" }}
           scrolling="no">
         </iframe>
