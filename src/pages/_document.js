@@ -28,6 +28,21 @@ class MyDocument extends Document {
           <link rel="stylesheet" href="/css/magnific-popup.css" />
           {/* public assets end */}
 
+          {/* Google Analytics */}
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-CCHMX6MXWM"></script>
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', 'G-CCHMX6MXWM', {
+                  page_path: window.location.pathname,
+                });
+              `,
+            }}
+          />
+
           <Script 
   src="https://chimpstatic.com/mcjs-connected/js/users/efcfec60b837c71d5e756a138/96beb85639cbd8c95d34d9c80.js"
   strategy="afterInteractive" 

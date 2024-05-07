@@ -156,7 +156,7 @@ const DefaultFooter = () => {
 
             <div className="legal-links">
                 <Link href="/terms-and-conditions" legacyBehavior>
-                    <a>Terms and Conditions</a>
+                    <a>Terms & Conditions</a>
                 </Link>
                 <span> | </span> 
                 <Link href="/privacy-policy" legacyBehavior>
@@ -165,6 +165,13 @@ const DefaultFooter = () => {
                 <span> | </span> 
                 <a href="https://djcservicesllc.com/sitemap-0.xml" target="_blank" rel="noopener noreferrer">Sitemap</a>
                 </div>
+
+                <div className="accessibility-link">
+                    <Link href="/accessibility-statement" legacyBehavior>
+                        <a>Accessibility Statement</a>
+                    </Link>
+                </div>
+
 
                 <p dangerouslySetInnerHTML={{ __html: appData.footer.copy }} />
 
