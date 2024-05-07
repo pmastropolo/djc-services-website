@@ -151,6 +151,57 @@ const About = () => {
       </section>
       {/*About Key Benefits End */}
 
+{/* Core Values Start */}
+<section className="gap no-top core-values">
+  <div className="heading">
+    <figure>
+      <img src="/img/footer-small-mini-djc-services-logo.png" alt="DJCSerices LLC Construction and Remodeling Alabama" />
+    </figure>
+    <span>Design | Build | Inspire</span>
+    <h2>Our Core Values</h2>
+  </div>
+  <div className="container">
+    <div className="row">
+      <ul>
+        <li>
+          <div className="data">
+            <h3>Design</h3>
+            <p>Functionality and innovation drive our designs, creating spaces that exceed expectations.</p>
+          </div>
+          <div className="image">
+            <figure>
+              <img className="w-100" src="/img/core-values/core-values-design-banner-image.png" alt="Core Values Image 1 | Design | DJC Services LLC" />
+            </figure>
+          </div>
+        </li>
+        <li>
+          <div className="image">
+            <figure>
+              <img className="w-100" src="/img/core-values/core-values-build-banner-image.png" alt="Core Values Image 2 | Build | DJC Services LLC" />
+            </figure>
+          </div>
+          <div className="data">
+            <h3>Build</h3>
+            <p>Our craftsmanship ensures quality construction that stands the test of time.</p>
+          </div>
+        </li>
+        <li>
+          <div className="data">
+            <h3>Inspire</h3>
+            <p>We aim to inspire through excellence, integrity, and a commitment to community.</p>
+          </div>
+          <div className="image">
+            <figure>
+              <img className="w-100" src="/img/core-values/core-values-inspire.png" alt="Core Values Image 3 | Inspire | DJC Services LLC" />
+            </figure>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>
+{/* Core Values End */}
+
 
       <RenovationSection />
 
