@@ -2,33 +2,58 @@
     "items": [
         {
             "icon": {
-                "light": "/images/icon-3.svg",
-                "dark": "/images/3-icon.png",
-                "alt": "Expert Planning Construction Service Icon"
+                "light": "/img/icons/bathroom-iconn.svg",
+                "dark": "/img/3-icon.png",
+                "alt": "Bathroom Remodeling and Construction Icon"
             },
-            "title": "Blueprints to Reality",
-            "text": "Crafting Your Vision with Expert Planning.",
-            "link": "/about"
+            "title": "Elite Bathroom Makeovers",
+            "text": "Elevate Your Routine to Pure Luxury",
+            "link": "/services/Bathroom-renovation"
         },
+
         {
             "icon": {
                 "light": "/images/icon-2.svg",
                 "dark": "/images/2-icon.png",
-                "alt": "Design Excellence in Remodeling Service Icon"
+                "alt": "Carpentry Icon"
             },
-            "title": "Design Excellence",
-            "text": "Merging Aesthetics with Functionality for Every Space.",
-            "link": "/about"
+            "title": "Precision Carpentry",
+            "text": "Crafting perfection, one plank at a time.",
+            "link": "/services/Carpentry"
         },
+        
+        {
+            "icon": {
+                "light": "/images/icon-2.svg",
+                "dark": "/images/2-icon.png",
+                "alt": "Deck & Patio Installation Icon"
+            },
+            "title": "Deck & Patio",
+            "text": "Double the fun, double the sun",
+            "link": "/services/Deck-and-patio"
+        },
+
+        {
+            "icon": {
+                "light": "/images/icon-2.svg",
+                "dark": "/images/2-icon.png",
+                "alt": "Flooring Icon"
+            },
+            "title": "Exquisite Flooring",
+            "text": "Our floors make every entrance grand.",
+            "link": "/services/Flooring"
+        },
+        
         {
             "icon": {
                 "light": "/images/icon-1.svg",
                 "dark": "/images/1-icon.png",
-                "alt": "Quality Materials for Construction Projects Icon"
+                "alt": "Kitchen Renovation Icon"
             },
-            "title": "Quality Materials",
-            "text": "Building with the Best for Your Project.",
-            "link": "/about"
+            "title": "Kitchen Redesign",
+            "text": "Culinary brilliance, kitchen magic.",
+            "link": "/services/Kitchen"
         }
+        
     ]
 }

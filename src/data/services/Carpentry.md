@@ -1,6 +1,6 @@
 ---
 #preview details
-image: "/img/serv-i-1.svg"
+image: "/img/icons/wood-icon.svg"
 title: "Carpentry"
 short: "Crafting Your Vision, Building Your Dream Home."
 

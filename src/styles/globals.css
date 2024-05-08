@@ -1,0 +1,23 @@
+@media (max-width: 992px) {
+    .services-nav, .service-content {
+        width: 100%;
+    }
+
+    .services-nav {
+        margin-bottom: 20px;  /* Add some space between the nav and content */
+    }
+
+    .nav-pills .nav-link {
+        padding: 10px; /* Increase padding for better touch targets */
+    }
+}
+
+@media (max-width: 768px) {
+    .services-nav {
+        text-align: center; /* Center align the navigation texts for a better mobile view */
+    }
+
+    .nav-pills .nav-item {
+        display: block; /* Stack the nav items vertically */
+    }
+}

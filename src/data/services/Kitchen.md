@@ -1,6 +1,6 @@
 ---
 #preview details
-image: "img/serv-i-4.svg"
+image: "img/icons/kitchen-icon.svg"
 title: "Kitchen Renovation"
 short: "Where Culinary Creativity Meets Unmatched Design Expertise."
 

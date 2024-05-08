@@ -1,6 +1,6 @@
 ---
 #preview details
-image: "img/serv-i-3.svg"
+image: "img/icons/floor-icon.svg"
 title: "Flooring"
 short: "Step into Elegance, Tailored to Your Home's Unique Style."
 

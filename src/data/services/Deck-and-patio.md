@@ -1,6 +1,6 @@
 ---
 #preview details
-image: "img/serv-i-2.svg"
+image: "img/icons/deck-icon.svg"
 title: "Deck & Patio Installation"
 short: "Elevating Outdoor Living with Custom Creations."
 

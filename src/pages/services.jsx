@@ -4,23 +4,51 @@ import Layouts from "@layouts/Layouts";
 import Nav from 'react-bootstrap/Nav';
 import Tab from 'react-bootstrap/Tab';
 import Link from "next/link";
-import ModalVideo from 'react-modal-video';
-import 'react-modal-video/css/modal-video.css';
 
 import { getSortedServicesData } from "@library/services";
 
 import CallToActionSection from "@components/sections/CallToAction";
 import ServicesSection from "@components/sections/Services";
-import CountersSection from "@components/sections/Counters";
 
 const Services = (props) => {
   const [isOpen, setOpen] = useState(false);
 
   return (
     <Layouts>
-      <PageBanner pageTitle={"Construction & Remodeling Services"} pageDesc={"Where Design Meets Durability"} />
+      <PageBanner pageTitle={"Services"} pageDesc={"Where Design Meets Durability"} />
 
-      <ServicesSection />
+      {/* Service Style Two Start */}
+      <section className="gap service-style-two">
+        <div className="heading">
+          <figure>
+            <img src="/img/footer-small-mini-djc-services-logo.png" alt="DJCServices LLC Construction and Remodeling Heading Logo Icon" />
+          </figure>
+          <span>Construction and Remodeling</span>
+          <h2>Premium Services</h2>
+
+        </div>
+        <div className="container">
+          <div className="row g-0">
+            {props.services.map((item, key) => (
+            <div key={`services-item-${key}`} className="col-lg-4 col-md-6 col-sm-12" >
+              <div className="service-two-box">
+                <h3><Link href={`/services/${item.id}`}>{item.title}</Link></h3>
+                <p>{item.short}</p>
+                <div className="service-two-icon d-flex-all justify-content-start">
+                  <img src={item.image} alt={item.title} />
+                  <Link href={`/services/${item.id}`}>
+                    <i className="fa-solid fa-arrow-up-long"></i>
+                  </Link>
+                </div>
+              </div>
+            </div>
+            ))}
+          </div>
+        </div>
+      </section>
+      {/* Service Style Two End */}
+
+
 
       {/* Construction Services Start */}
       <section className="gap no-top construction-services">
@@ -109,36 +137,6 @@ const Services = (props) => {
       {/* Construction Services End */}
 
 
-      {/* Service Style Two Start */}
-      <section className="gap service-style-two">
-        <div className="heading">
-          <figure>
-            <img src="/img/footer-small-mini-djc-services-logo.png" alt="DJCServices LLC Construction and Remodeling Heading Logo Icon" />
-          </figure>
-          <span>Construction and Remodeling</span>
-          <h2>Premium Services</h2>
-
-        </div>
-        <div className="container">
-          <div className="row g-0">
-            {props.services.map((item, key) => (
-            <div key={`services-item-${key}`} className="col-lg-4 col-md-6 col-sm-12" >
-              <div className="service-two-box">
-                <h3><Link href={`/services/${item.id}`}>{item.title}</Link></h3>
-                <p>{item.short}</p>
-                <div className="service-two-icon d-flex-all justify-content-start">
-                  <img src={item.image} alt={item.title} />
-                  <Link href={`/services/${item.id}`}>
-                    <i className="fa-solid fa-arrow-up-long"></i>
-                  </Link>
-                </div>
-              </div>
-            </div>
-            ))}
-          </div>
-        </div>
-      </section>
-      {/* Service Style Two End */}
       
       <CallToActionSection />
       
