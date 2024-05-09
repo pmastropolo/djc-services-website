@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import PageBanner from "@components/PageBanner";
 import Layouts from "@layouts/Layouts";
+import netlifyIdentity from 'netlify-identity-widget';
 
 const Dashboard = () => {
         const [user, setUser] = useState(null);
