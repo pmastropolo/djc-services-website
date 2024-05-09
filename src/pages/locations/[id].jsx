@@ -3,6 +3,7 @@ import PageBanner from "@components/PageBanner";
 import Link from "next/link";
 import { sliderProps } from "@common/sliderProps";
 import { Swiper, SwiperSlide } from "swiper/react";
+import CallToActionSection from "@components/sections/CallToAction";
 
 import { getSortedLocationsData, getAllLocationsIds, getLocationData, getRelatedLocations } from "@library/locations";
 
@@ -131,6 +132,8 @@ const LocationDetail = ( props ) => {
       }
 
       <RelatedLocationsSection locations={props.related} />
+
+      <CallToActionSection />
 
     </Layouts>
   );

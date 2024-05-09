@@ -39,7 +39,12 @@
               "label": "Service Areas",
               "link": "/service-areas",
               "children": []
-          }
+          },
+          {
+            "label": "Login & Register",
+            "link": "/login",
+            "children": 0
+        }
           ]
         },
         {

@@ -74,12 +74,12 @@ const Services = (props) => {
                   <Nav.Item>
                     <Nav.Link eventKey="tab-service-4">Kitchen Renovation</Nav.Link>
                   </Nav.Item>
-                  <Nav.Item>
-                    <Nav.Link eventKey="tab-service-4">Other Renovation Services</Nav.Link>
-                  </Nav.Item>
+
                 </Nav>
               </div>
             </div>
+
+
             <div className="col-lg-8">
               <Tab.Content>
                 <Tab.Pane eventKey="tab-service-0" title="General Contracting">

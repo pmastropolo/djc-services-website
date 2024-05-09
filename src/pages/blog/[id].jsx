@@ -4,6 +4,7 @@ import { getAllPostsIds, getPostData, getRelatedPosts } from "@library/posts";
 import Date from '@library/date';
 import Link from 'next/link';
 import ImageView from "@components/ImageView";
+import CallToActionSection from "@components/sections/CallToAction";
 
 import PageBanner from "@components/PageBanner";
 
@@ -148,6 +149,9 @@ const PostsDetail = ( props ) => {
       {/* Blog Style Three End */}
       
       <ImageView />
+
+      <CallToActionSection />
+
     </Layouts>
   );
 };

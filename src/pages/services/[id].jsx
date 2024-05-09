@@ -2,6 +2,7 @@ import Layouts from "@layouts/Layouts";
 import PageBanner from "@components/PageBanner";
 import ImageView from "@components/ImageView";
 import Accordion from 'react-bootstrap/Accordion';
+import CallToActionSection from "@components/sections/CallToAction";
 
 import { getAllServicesIds, getServiceData } from "@library/services";
 
@@ -109,6 +110,8 @@ const ServiceDetail = ( { postData } ) => {
           }
 
         </div>
+
+        <CallToActionSection />
       </section>
       {/* Service-Detail-First End */}
       

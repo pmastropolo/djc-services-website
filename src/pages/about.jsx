@@ -1,10 +1,7 @@
 import dynamic from "next/dynamic";
-
 import Layouts from "@layouts/Layouts";
-
 import PageBanner from "@components/PageBanner";
 import RenovationSection from "@components/sections/Renovation";
-
 const TestimonialSlider = dynamic( () => import("@components/sliders/Testimonial"), { ssr: false } );
 
 const About = () => {

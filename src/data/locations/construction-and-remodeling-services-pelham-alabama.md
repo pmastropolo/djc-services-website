@@ -37,7 +37,9 @@ Enhance your outdoor areas with our high-quality stamped concrete installations,
 ## Why Choose DJCServices, LLC?
 
 - **Innovative Design:** We stay at the cutting edge of design and technology, ensuring your home is both modern and functional.
+
 - **Tailored to You:** Our services are highly customizable, ensuring that every aspect of your project aligns with your specific desires and needs.
+
 - **Unmatched Quality:** Our commitment to quality and precision in craftsmanship guarantees that your home will be built to the highest standards.
 
 ## Transform Your Home with Us
