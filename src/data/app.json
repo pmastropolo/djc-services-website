@@ -57,28 +57,73 @@
               "children": []
             },
             {
+              "label": "Basement & Attic",
+              "link": "/services/basement-and-attic-remodeling-and-constructions-services-in-alabama",
+              "children": []
+            },
+            {
               "label": "Bathroom Renovation",
-              "link": "/services/Bathroom-renovation",
+              "link": "/services/bathroom-renovation-remodeling-and-constructions-services-in-alabama",
+              "children": []
+            },
+            {
+              "label": "Commerical",
+              "link": "/services/commercial-remodeling-and-constructions-services-in-alabama",
               "children": []
             },
             {
               "label": "Carpentry",
-              "link": "/services/Carpentry",
+              "link": "/services/custom-carpentry-remodeling-and-constructions-services-in-alabama",
               "children": []
             },
             {
               "label": "Deck & Patio",
-              "link": "/services/Deck-and-patio",
+              "link": "/services/deck-patio-design-alabama",
+              "children": []
+            },
+            {
+              "label": "Door & Window Installation",
+              "link": "/services/door-and-window-installers",
+              "children": []
+            },
+            {
+              "label": "Drywall & Painting",
+              "link": "/services/drywall-painting-services-alabama",
+              "children": []
+            },
+            {
+              "label": "Exterior Remodeling",
+              "link": "/services/exterior-remodeling",
+              "children": []
+            },
+            {
+              "label": "Fences",
+              "link": "/services/fence-installation-repair-alabama",
+              "children": []
+            },
+            {
+              "label": "Fences",
+              "link": "/services/fence-installation-repair-alabama",
               "children": []
             },
             {
               "label": "Flooring",
-              "link": "/services/Flooring",
+              "link": "/services/flooring-solutions-alabama",
+              "children": []
+            },
+            {
+              "label": "Interior Remodeling",
+              "link": "/services/interior-remodeling",
               "children": []
             },
             {
               "label": "Kitchen",
-              "link": "/services/Kitchen",
+              "link": "/services/kitchen-remodeling-design",
+              "children": []
+            },
+            {
+              "label": "Screening",
+              "link": "/services/screening-services",
               "children": []
             }
           ]
