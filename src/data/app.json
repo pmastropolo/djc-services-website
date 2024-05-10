@@ -82,11 +82,6 @@
               "children": []
             },
             {
-              "label": "Door & Window",
-              "link": "/services/door-and-window-installers",
-              "children": []
-            },
-            {
               "label": "Drywall & Painting",
               "link": "/services/drywall-painting-services-alabama",
               "children": []
@@ -94,16 +89,6 @@
             {
               "label": "Exterior",
               "link": "/services/exterior-remodeling",
-              "children": []
-            },
-            {
-              "label": "Fences",
-              "link": "/services/fence-installation-repair-alabama",
-              "children": []
-            },
-            {
-              "label": "Fences",
-              "link": "/services/fence-installation-repair-alabama",
               "children": []
             },
             {
