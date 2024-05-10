@@ -8,7 +8,6 @@ import { getSortedProjectsData } from "@library/projects";
 import Hero3Section from "@components/sections/Hero3";
 import About3Section from "@components/sections/About3";
 import AboutSection from "@components/sections/About";
-import ServicesSection from "@components/sections/Services";
 import CallToActionSection from "@components/sections/CallToAction";
 import ContactFormSection from "@components/sections/ContactForm";
 import LatestPosts2Section from "@components/sections/LatestPosts2";
@@ -22,7 +21,6 @@ const Home3 = (props) => {
         <Hero3Section />
         <AboutSection />
         <About3Section />
-        <ServicesSection />
         <ContactFormSection />
         <ProjectsSlider projects={props.projects} />
         <LatestPosts2Section posts={props.posts} />

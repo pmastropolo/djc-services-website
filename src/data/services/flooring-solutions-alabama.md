@@ -2,7 +2,7 @@
 #preview details
 image: "img/icons/floor-icon.svg"
 title: "Flooring"
-short: "Step into Elegance, Tailored to Your Home's Unique Style."
+short: "Step up your home game with stunning, stylish floors."
 
 #full details
 description0:

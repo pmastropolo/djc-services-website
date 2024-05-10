@@ -39,12 +39,7 @@
               "label": "Service Areas",
               "link": "/service-areas",
               "children": []
-          },
-          {
-            "label": "Login & Register",
-            "link": "/login",
-            "children": 0
-        }
+          }
           ]
         },
         {
@@ -67,11 +62,6 @@
               "children": []
             },
             {
-              "label": "Commerical",
-              "link": "/services/commercial-remodeling-and-constructions-services-in-alabama",
-              "children": []
-            },
-            {
               "label": "Carpentry",
               "link": "/services/custom-carpentry-remodeling-and-constructions-services-in-alabama",
               "children": []
@@ -86,21 +76,13 @@
               "link": "/services/drywall-painting-services-alabama",
               "children": []
             },
-            {
-              "label": "Exterior",
-              "link": "/services/exterior-remodeling",
-              "children": []
-            },
+
             {
               "label": "Flooring",
               "link": "/services/flooring-solutions-alabama",
               "children": []
             },
-            {
-              "label": "Interior",
-              "link": "/services/interior-remodeling",
-              "children": []
-            },
+
             {
               "label": "Kitchen",
               "link": "/services/kitchen-remodeling-design",

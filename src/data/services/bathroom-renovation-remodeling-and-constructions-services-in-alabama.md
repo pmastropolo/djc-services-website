@@ -2,7 +2,7 @@
 #preview details
 image: "img/bathroom-icon.svg"
 title: "Bathroom Renovation"
-short: "Transform Your Daily Routine into a Luxurious Escape."
+short: "Elevate your routine to spa-level luxury. Start every day pampered!"
 
 #full details
 description0:

@@ -2,7 +2,7 @@ import React from "react";
 import Head from "next/head";
 import appData from "@data/app.json";
 
-import NavBar from "@components/navbar"
+
 
 import AuthContextProvider from "../contexts/authContext";
 
@@ -25,7 +25,7 @@ function MyApp({ Component, pageProps }) {
       <AuthContextProvider>
       
       <Component {...pageProps} />
-      <NavBar />
+
       </AuthContextProvider>
     </>
   );

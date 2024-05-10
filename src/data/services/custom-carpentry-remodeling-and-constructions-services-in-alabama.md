@@ -2,7 +2,7 @@
 #preview details
 image: "/img/icons/wood-icon.svg"
 title: "Carpentry"
-short: "Crafting Your Vision, Building Your Dream Home."
+short: "Dream it, we nail it. Crafting your vision into reality."
 
 #full details
 description0:
