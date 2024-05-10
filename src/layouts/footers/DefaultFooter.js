@@ -103,7 +103,6 @@ const DefaultFooter = () => {
     <li><a href="/locations/construction-and-remodeling-services-chelsea-alabama">Chelsea, AL</a></li>
     <li><a href="/locations/construction-and-remodeling-services-helena-alabama">Helena, AL</a></li>
     <li><a href="/locations/construction-and-remodeling-services-homewood-alabama">Homewood, AL</a></li>
-    <li><a href="/locations/construction-and-remodeling-services-hoover-alabama">Hoover, AL</a></li>
     <li><a href="/locations/construction-and-remodeling-services-mountain-brook-alabama">Mountain Brook, AL</a></li>
     <li><a href="/locations/construction-and-remodeling-services-pelham-alabama">Pelham, AL</a></li>
     <li><a href="/locations/construction-and-remodeling-services-vestavia-hills-alabama">Vestavia Hills, AL</a></li>
@@ -119,7 +118,6 @@ const DefaultFooter = () => {
         <ul>
             <li><a href="/services/basement-and-attic-remodeling-and-constructions-services-in-alabama">Basement & Attic</a></li>
             <li><a href="/services/bathroom-renovation-remodeling-and-constructions-services-in-alabama">Bathroom Renovation</a></li>
-            <li><a href="/services/commercial-remodeling-and-constructions-services-in-alabama">Commercial</a></li>
             <li><a href="/services/custom-carpentry-remodeling-and-constructions-services-in-alabama">Carpentry</a></li>
             <li><a href="/services/deck-patio-design-alabama">Deck & Patio</a></li>
             <li><a href="/services/drywall-painting-services-alabama">Drywall & Painting</a></li>
@@ -184,7 +182,7 @@ const DefaultFooter = () => {
                     ))}
                 </div>
 
-                <div className="social-medias">
+                <div className="s">
                 <p>Made by  <i class='fa-solid fa-heart'></i> Bham Web Design and SEO Co</p>
                 <Link href="https://bhamwebdesignandseoco.com/" legacyBehavior>
                 <a target="_blank" rel="noopener noreferrer">Visit our website</a>
