@@ -190,7 +190,7 @@ const DefaultFooter = () => {
                 </div>
 
                 <div className="social-medias">
-                <p>Made by Bham Web Design and SEO Co</p>
+                <p>Made by  <i class='fa-solid fa-heart'></i> Bham Web Design and SEO Co</p>
                 <Link href="https://bhamwebdesignandseoco.com/" legacyBehavior>
                 <a target="_blank" rel="noopener noreferrer">Visit our website</a>
                 </Link>
