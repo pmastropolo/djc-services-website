@@ -3,6 +3,22 @@
 }
 
 
+.s p {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 0; /* Optionally reset margin */
+}
+
+@media only screen and (max-width: 768px) {
+    .s p {
+        white-space: normal; /* Allow text to wrap on smaller screens */
+        overflow: visible;
+        text-overflow: clip; /* Display full text without ellipsis on smaller screens */
+    }
+}
+
+
 @media (max-width: 992px) {
     .services-nav, .service-content {
         width: 100%;
