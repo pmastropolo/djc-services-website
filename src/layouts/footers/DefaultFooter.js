@@ -124,7 +124,6 @@ const DefaultFooter = () => {
             <li><a href="/services/commercial-remodeling-and-constructions-services-in-alabama">Commercial</a></li>
             <li><a href="/services/custom-carpentry-remodeling-and-constructions-services-in-alabama">Carpentry</a></li>
             <li><a href="/services/deck-patio-design-alabama">Deck & Patio</a></li>
-            <li><a href="/services/door-and-window-installers">Door & Window Installation</a></li>
             <li><a href="/services/drywall-painting-services-alabama">Drywall & Painting</a></li>
             <li><a href="/services/exterior-remodeling">Exterior Remodeling</a></li>
             <li><a href="/services/fence-installation-repair-alabama">Fence</a></li>
@@ -132,7 +131,6 @@ const DefaultFooter = () => {
             <li><a href="/services/home-additions-remodeling-and-constructions-services-in-alabama">Home Additions</a></li>
             <li><a href="/services/interior-remodeling">Interior Remodeling</a></li>
             <li><a href="/services/kitchen-remodeling-design">Kitchen</a></li>
-            <li><a href="/services/screening-services">Screening</a></li>
         </ul>
     </div>
 </div>
