@@ -82,7 +82,7 @@
               "children": []
             },
             {
-              "label": "Door & Window Installation",
+              "label": "Door & Window",
               "link": "/services/door-and-window-installers",
               "children": []
             },
@@ -92,7 +92,7 @@
               "children": []
             },
             {
-              "label": "Exterior Remodeling",
+              "label": "Exterior",
               "link": "/services/exterior-remodeling",
               "children": []
             },
@@ -112,7 +112,7 @@
               "children": []
             },
             {
-              "label": "Interior Remodeling",
+              "label": "Interior",
               "link": "/services/interior-remodeling",
               "children": []
             },
@@ -120,12 +120,8 @@
               "label": "Kitchen",
               "link": "/services/kitchen-remodeling-design",
               "children": []
-            },
-            {
-              "label": "Screening",
-              "link": "/services/screening-services",
-              "children": []
             }
+
           ]
         },
         {
