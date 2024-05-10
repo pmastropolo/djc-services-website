@@ -188,6 +188,15 @@ const DefaultFooter = () => {
                     <a href={item.link} target="_blank" key={`fsocial-item-${key}`}>{item.title}</a>
                     ))}
                 </div>
+
+                <div className="social-medias">
+                <p>Made by Bham Web Design and SEO Co</p>
+                <Link href="https://bhamwebdesignandseoco.com/" legacyBehavior>
+                <a target="_blank" rel="noopener noreferrer">Visit our website</a>
+                </Link>
+                </div>
+
+                  
             </div>
             </div>
         </div>
