@@ -24,25 +24,7 @@ description0:
   <li>Framing and structural carpentry</li>
   <li>Finish carpentry for interior detailing</li>
     </ul>
-  "
-
-gallery: 
-  enabled: 1
-  items:
-      - image: /img/gallery-3.jpeg
-        alt: "image"
-
-      - image: /img/gallery-2.jpeg
-        alt: "image"
-
-      - image: /img/gallery-1.jpeg
-        alt: "image"
-
-      - image: /img/gallery-4.jpeg
-        alt: "image"
-
-      - image: /img/gallery-5.jpeg
-        alt: "image"          
+  "      
 
 checklist:
   enabled: 1
