@@ -98,13 +98,11 @@ const DefaultFooter = () => {
         <h3>Service Areas</h3>
 <ul>
     <li><a href="/locations/construction-and-remodeling-services-alabaster-alabama">Alabaster, AL</a></li>
-    <li><a href="/locations/construction-and-remodeling-services-bessemer-alabama">Bessemer, AL</a></li>
     <li><a href="/locations/construction-and-remodeling-services-birmingham-alabama">Birmingham, AL</a></li>
     <li><a href="/locations/construction-and-remodeling-services-cahaba-heights-alabama">Cahaba Heights, AL</a></li>
     <li><a href="/locations/construction-and-remodeling-services-chelsea-alabama">Chelsea, AL</a></li>
     <li><a href="/locations/construction-and-remodeling-services-helena-alabama">Helena, AL</a></li>
     <li><a href="/locations/construction-and-remodeling-services-homewood-alabama">Homewood, AL</a></li>
-    <li><a href="/locations/construction-and-remodeling-services-hueytown-alabama">Hueytown, AL</a></li>
     <li><a href="/locations/construction-and-remodeling-services-hoover-alabama">Hoover, AL</a></li>
     <li><a href="/locations/construction-and-remodeling-services-mountain-brook-alabama">Mountain Brook, AL</a></li>
     <li><a href="/locations/construction-and-remodeling-services-pelham-alabama">Pelham, AL</a></li>
@@ -125,11 +123,8 @@ const DefaultFooter = () => {
             <li><a href="/services/custom-carpentry-remodeling-and-constructions-services-in-alabama">Carpentry</a></li>
             <li><a href="/services/deck-patio-design-alabama">Deck & Patio</a></li>
             <li><a href="/services/drywall-painting-services-alabama">Drywall & Painting</a></li>
-            <li><a href="/services/exterior-remodeling">Exterior Remodeling</a></li>
-            <li><a href="/services/fence-installation-repair-alabama">Fence</a></li>
             <li><a href="/services/flooring-solutions-alabama">Flooring</a></li>
             <li><a href="/services/home-additions-remodeling-and-constructions-services-in-alabama">Home Additions</a></li>
-            <li><a href="/services/interior-remodeling">Interior Remodeling</a></li>
             <li><a href="/services/kitchen-remodeling-design">Kitchen</a></li>
         </ul>
     </div>
