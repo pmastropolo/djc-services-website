@@ -173,7 +173,7 @@ const DefaultFooter = () => {
                 <span> | </span> 
                 <a href="https://djcservicesllc.com/sitemap-0.xml" target="_blank" rel="noopener noreferrer">Sitemap</a>
                 </div>
-
+                <span> | </span> 
                 <div className="accessibility-link">
                     <Link href="/accessibility-statement" legacyBehavior>
                         <a>Accessibility Statement</a>
