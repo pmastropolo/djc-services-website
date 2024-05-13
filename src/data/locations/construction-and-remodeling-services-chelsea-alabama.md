@@ -1,5 +1,5 @@
 ---
-title: "Chelsea, AL Construction & Remodeling Excellence by DJCservices LLC"
+title: "Chelsea, ALabama | Construction & Remodeling Services"
 description: "DJCservices LLC, as Chelsea, Alabama’s leading construction and remodeling expert, excels in creating bespoke living spaces. Specializing in luxurious kitchens, elegant bathrooms, and dynamic outdoor living areas, we ensure every project embodies the unique charm and high standards of Chelsea. Experience the best in local craftsmanship and innovative designs tailored just for your home in Chelsea."
 servicesOffered:
   - "Premier Kitchen Remodeling in Chelsea"
