@@ -1,5 +1,5 @@
 ---
-title: "Custom Home Remodeling in Columbiana, AL - DJCservices LLC"
+title: "Columbiana, Alabama | Construction & Remodeling Services"
 description: "DJCservices LLC is Columbiana, Alabama's top-rated construction and remodeling expert, specializing in personalized kitchen designs, luxurious bathroom makeovers, and innovative outdoor living solutions. Embrace the local charm and upgrade your lifestyle with our bespoke remodeling services that transform every home into a beacon of comfort and elegance."
 servicesOffered:
   - "Columbiana's Premier Kitchen Remodels"
