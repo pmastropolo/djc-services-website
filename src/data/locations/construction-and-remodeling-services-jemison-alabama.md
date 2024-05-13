@@ -1,5 +1,5 @@
 ---
-title: "Jemison Construction & Remodeling Excellence"
+title: "Jemison, Alabama | Construction & Remodeling Services"
 description: "In the heart of Jemison, Alabama, DJCservices LLC stands out as the leading provider of superior construction and remodeling services. Our commitment to excellence is shown through our customized designs that reflect the rich agricultural heritage and small-town charm of Jemison. With specializations in modernizing farmhouses and enhancing residential and commercial properties, every project is a blend of traditional values and contemporary living."
 servicesOffered:
   - "Jemison's Finest Farmhouse Kitchen Remodels"
