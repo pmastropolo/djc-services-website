@@ -43,7 +43,9 @@ Each kitchen renovation is a bespoke creation, designed to integrate seamlessly 
 ### Why Choose DJCservices LLC?
 
 - **Community-Centric Designs:** Our designs are inspired by the community spirit of Cahaba Heights and tailored to fit perfectly within its unique landscape.
+
 - **Superior Craftsmanship:** We employ the finest local craftsmen and use the best materials available to ensure that every project meets our exacting standards.
+
 - **Transparent Process:** From consultation to completion, we maintain open communication, ensuring that every step meets your expectations.
 
 **Transform your Cahaba Heights home with DJCservices LLC—where your vision and our expertise come together to create something truly spectacular.**
