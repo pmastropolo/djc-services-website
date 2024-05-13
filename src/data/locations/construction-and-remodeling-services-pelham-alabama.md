@@ -1,5 +1,5 @@
 ---
-title: "Pelham Alabama | Construction & Remodeling Services"
+title: "Pelham, Alabama | Construction & Remodeling Services"
 description: "DJCServices, LLC offers state-of-the-art construction and remodeling services in Pelham, Alabama, specializing in creating dynamic living spaces that meet the evolving needs of modern homeowners."
 servicesOffered:
   - Modern Kitchen Makeovers
