@@ -1,5 +1,5 @@
 ---
-title: "Clanton, AL Construction & Remodeling - Local Expertise by DJCservices LLC"
+title: "Clanton, ALabama | Construction & Remodeling Services"
 description: "DJCservices LLC, Clanton’s trusted construction and remodeling leader, specializes in custom home transformations that harmonize with Clanton’s distinctive Southern charm. From luxury kitchen and bathroom renovations to bespoke outdoor living spaces, we’re dedicated to elevating your home with unparalleled craftsmanship and innovative design."
 servicesOffered:
   - "Premium Kitchen Renovations in Clanton"
