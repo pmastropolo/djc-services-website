@@ -1,5 +1,5 @@
 ---
-title: "Mountain Brook Alabama | Construction & Remodeling Services"
+title: "Mountain Brook, Alabama | Construction & Remodeling Services"
 description: "DJCServices LLC, based in Helena, AL, provides exquisite construction and remodeling services throughout Helena and Mountain Brook, Alabama, crafting luxurious living spaces that embody sophistication and timeless elegance."
 servicesOffered:
   - High-End Kitchen Renovations
