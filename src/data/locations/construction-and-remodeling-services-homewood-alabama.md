@@ -1,5 +1,5 @@
 ---
-title: "Homewood Alabama | Construction & Remodeling Services"
+title: "Homewood, Alabama | Construction & Remodeling Services"
 description: "DJCServices offers cutting-edge construction and remodeling services across Homewood, Alabama, crafting custom living spaces that align with your lifestyle and preferences."
 servicesOffered:
   - Modern Kitchen Redesigns
