@@ -1,5 +1,5 @@
 ---
-title: "Hoover Alabama | Construction & Remodeling Services"
+title: "Hoover, Alabama | Construction & Remodeling Services"
 description: "DJCServices specializes in exceptional construction and remodeling services in Hoover, Alabama, delivering personalized and innovative home solutions tailored to your unique lifestyle."
 servicesOffered:
   - Contemporary Kitchen Upgrades
