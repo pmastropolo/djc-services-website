@@ -1,5 +1,5 @@
 ---
-title: "Leeds Construction & Remodeling Excellence"
+title: "Leeds, Alabama |  Construction & Remodeling Services"
 description: "In Leeds, Alabama, DJCservices LLC emerges as the premier choice for transformative construction and remodeling services. Our dedication to reimagining homes with custom kitchen designs, luxurious bathroom upgrades, and innovative outdoor solutions ensures every space becomes a testament to luxury and functional beauty."
 servicesOffered:
   - "Leeds's Finest Kitchen Remodels"
