@@ -1,5 +1,5 @@
 ---
-title: "Vestavia Hills Construction & Remodeling Experts"
+title: "Vestavia Hills, Alabama | Construction & Remodeling Services"
 description: "DJCservices LLC, the pinnacle of construction and remodeling excellence in Vestavia Hills, Alabama, is at the forefront of transforming homes into luxurious, functional masterpieces. With a commitment to innovation in home renovations, custom kitchen designs, luxury bathroom upgrades, and beyond, we ensure a flawless evolution of your living spaces."
 servicesOffered:
   - "Best Kitchen Remodels in Vestavia Hills"
