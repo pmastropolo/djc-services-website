@@ -1,5 +1,5 @@
 ---
-title: "Birmingham Alabama | Construction & Remodeling Services"
+title: "Birmingham, Alabama | Construction & Remodeling Services"
 description: "At DJCServices, LLC, based in Helena, AL and servicing Birmingham, we specialize in transforming your living spaces with custom construction and remodeling services, perfectly tailored to your dreams and needs."
 servicesOffered:
   - Gourmet Kitchen Transformations
