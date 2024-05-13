@@ -1,5 +1,5 @@
 ---
-title: "Highland Lakes Home Renovations & Outdoor Living Solutions | DJCservices LLC"
+title: "Highland Lakes, Alabama | Construction & Remodeling Services"
 description: "Experience unparalleled home transformations in Highland Lakes, Alabama, with DJCservices LLC. From exquisite kitchen remodels to luxurious bathroom renovations and innovative outdoor living spaces, we redefine living excellence in Highland Lakes."
 
 servicesOffered:
