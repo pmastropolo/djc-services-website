@@ -1,5 +1,5 @@
 ---
-title: "Oak Grove Construction & Remodeling Excellence"
+title: "Oak Grove, Alabama | Construction & Remodeling Services"
 description: "In Oak Grove, Alabama, DJCservices LLC emerges as the premier choice for transformative construction and remodeling services. Our dedication to reimagining homes with custom kitchen designs, luxurious bathroom upgrades, and innovative outdoor solutions ensures every space becomes a testament to luxury and functional beauty."
 servicesOffered:
   - "Oak Grove's Finest Kitchen Remodels"
