@@ -1,5 +1,5 @@
 ---
-title: "Hueytown Alabama | Construction & Remodeling Services"
+title: "Hueytown, Alabama | Construction & Remodeling Services"
 description: "DJCServices is your premier destination for top-tier construction and remodeling services in Hueytown, Alabama, offering custom solutions to elevate your living space to match your dreams."
 servicesOffered:
   - Chic Kitchen Remodels
