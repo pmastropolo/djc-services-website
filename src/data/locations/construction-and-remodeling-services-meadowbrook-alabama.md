@@ -1,5 +1,5 @@
 ---
-title: "Meadowbrook Construction & Remodeling Excellence"
+title: "Meadowbrook, Alabama | Construction & Remodeling Services"
 description: "In Meadowbrook, Alabama, DJCservices LLC emerges as the premier choice for transformative construction and remodeling services. Our dedication to reimagining homes with custom kitchen designs, luxurious bathroom upgrades, and innovative outdoor solutions ensures every space becomes a testament to luxury and functional beauty."
 servicesOffered:
   - "Meadowbrook's Finest Kitchen Remodels"
