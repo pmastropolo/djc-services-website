@@ -1,5 +1,5 @@
 ---
-title: "Bessemer Construction & Remodeling Excellence"
+title: "Bessemer Alabama Construction & Remodeling"
 description: "DJCservices LLC stands as the top-tier provider of construction and remodeling services in Bessemer, Alabama. Our commitment to transforming homes with state-of-the-art kitchen designs, spa-like bathroom renovations, and bespoke outdoor living areas ensures that every project we undertake enhances both luxury and functionality."
 servicesOffered:
   - "Bessemer's Premier Kitchen Remodels"
