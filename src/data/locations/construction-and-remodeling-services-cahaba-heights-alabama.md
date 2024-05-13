@@ -1,5 +1,5 @@
 ---
-title: "Cahaba Heights Construction & Remodeling Excellence"
+title: "Cahaba Heights Alabama | Construction & Remodeling Services"
 description: "In Cahaba Heights, Alabama, DJCservices LLC is renowned for expert construction and remodeling services that blend seamlessly with the quaint, upscale charm of this vibrant community. Specializing in bespoke home transformations that respect the area's natural beauty and community-oriented vibe, we ensure every project from kitchen redesigns to complete home renovations enhances both aesthetics and functionality."
 servicesOffered:
   - "Tailored Kitchen Remodels in Cahaba Heights"
