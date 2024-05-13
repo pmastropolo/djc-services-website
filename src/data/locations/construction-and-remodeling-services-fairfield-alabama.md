@@ -1,5 +1,5 @@
 ---
-title: "Fairfield Home Renovations & Outdoor Living Solutions | DJCservices LLC"
+title: "Fairfield, Alabama | Construction & Remodeling Services"
 description: "Discover the pinnacle of home renovation and outdoor living in Fairfield, Alabama, with DJCservices LLC. From exquisite kitchen remodels to luxurious bathroom renovations and innovative outdoor spaces, we redefine living excellence in Fairfield."
 
 servicesOffered:
