@@ -108,7 +108,40 @@ const PrivacyPolicy = () => {
         </ul>
         <p style={styles.p}>When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol.</p>
         <p style={styles.p}>We strive to take appropriate security measures to protect against unauthorized access to or alteration of your personal information. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, you acknowledge that: (a) there are security and privacy limitations inherent to the Internet that are beyond our control; and (b) the security, integrity, and privacy of any and all information and data exchanged between you and us through this site cannot be guaranteed.</p>
-      
+
+<h2 style={styles.h2}>Right to Deletion</h2>
+        <p style={styles.p}>Subject to certain exceptions set out below, on receipt of a verifiable request from you, we will:</p>
+        <ul style={styles.ul}>
+          <li style={styles.li}>Delete your personal information from our records; and</li>
+          <li style={styles.li}>Direct any service providers to delete your personal information from their records.</li>
+        </ul>
+        <p style={styles.p}>Please note that we may not be able to comply with requests to delete your personal information if it is necessary to:</p>
+        <ul style={styles.ul}>
+          <li style={styles.li}>Complete the transaction for which the personal information was collected, fulfill the terms of a written warranty or product recall conducted in accordance with federal law, provide a good or service requested by you, or reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform a contract between you and us;</li>
+          <li style={styles.li}>Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity;</li>
+          <li style={styles.li}>Debug to identify and repair errors that impair existing intended functionality;</li>
+          <li style={styles.li}>Exercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided for by law;</li>
+          <li style={styles.li}>Comply with the California Electronic Communications Privacy Act;</li>
+          <li style={styles.li}>Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when our deletion of the information is likely to render impossible or seriously impair the achievement of such research, provided we have obtained your informed consent;</li>
+          <li style={styles.li}>Enable solely internal uses that are reasonably aligned with your expectations based on your relationship with us;</li>
+          <li style={styles.li}>Comply with an existing legal obligation; or</li>
+          <li style={styles.li}>Otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.</li>
+        </ul>
+
+        <h2 style={styles.h2}>Children Under Thirteen</h2>
+        <p style={styles.p}>The Company does not knowingly collect personally identifiable information from children under the age of 13. If you are under the age of 13, you must ask your parent or guardian for permission to use this <a href="https://djcservicesllc.com/" style={styles.a}>website</a>.</p>
+
+        <h2 style={styles.h2}>Opt Out and Unsubscribe from Third-Party Communications</h2>
+        <p style={styles.p}>We respect your privacy and give you an opportunity to opt out of receiving announcements of certain information. Users may opt out of receiving any or all communications from third-party partners of the Company by contacting us here:</p>
+        <ul style={styles.ul}>
+          <li style={styles.li}>Web page: <a href="https://djcservicesllc.com/contact" style={styles.a}>https://djcservicesllc.com/contact</a></li>
+          <li style={styles.li}>Email: <a href="mailto:djc.servicesalabama@gmail.com" style={styles.a}>djc.servicesalabama@gmail.com</a></li>
+          <li style={styles.li}>Phone: 2055651501</li>
+        </ul>
+
+        <h2 style={styles.h2}>Email Communications</h2>
+        <p style={styles.p}>From time to time, the Company may contact you via email for the purpose of providing announcements, promotional offers, alerts, confirmations, surveys, and/or other general communication. In order to improve our services, we may receive a notification when you open an email from the Company or click on a link therein.</p>
+        
       </div>
     </Layouts>
   );
