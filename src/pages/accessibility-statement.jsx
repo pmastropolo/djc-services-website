@@ -75,7 +75,7 @@ const AccessibilityStatement = () => {
 <ul>
   <li>Known limitations: Certain video content lacks captions, potentially making it difficult for users with hearing impairments to fully access the information.</li>
   <li>Alternatives: We are actively working to add captions to all video content. In the meantime, please contact us for alternative formats.</li>
-  <li>Instructions on how to report issues: Please email us at <a href="mailto:djc.servicesalabama@gmail.com">djc.servicesalabama@gmail.com</a> or call us at <a href="tel:+12053373384">(205) 337-3384</a> to report any accessibility issues you encounter. Your feedback helps us improve our site for everyone.</li>
+  <li>Instructions on how to report issues: Please email us at <a href="mailto:djc.servicesalabama@gmail.com">djc.servicesalabama@gmail.com</a> or call us at <a href="tel:+12055651501">(205) 565-1501</a> to report any accessibility issues you encounter. Your feedback helps us improve our site for everyone.</li>
 </ul>
 
 
