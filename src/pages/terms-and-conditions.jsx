@@ -54,7 +54,7 @@ const TermsConditions = () => {
         <p>DJCServices, LLC offers construction services, including consultations, planning, and building. All services are subject to acceptance by DJCServices, LLC. We reserve the right to refuse service to anyone for any reason at any time.</p>
 
         <h2 style={styles.h2}>Consultations</h2>
-        <p>We offer free consultations to evaluate your construction needs. To schedule a consultation, please contact us at <a style={styles.link} href="tel:+12053373384">(205) 337-3384</a> or via email at <a style={styles.link} href="mailto:djc.servicesalabama@gmail.com">djc.servicesalabama@gmail.com</a>.</p>
+        <p>We offer free consultations to evaluate your construction needs. To schedule a consultation, please contact us at <a style={styles.link} href="tel:+12055651501">(205) 565-1501</a> or via email at <a style={styles.link} href="mailto:djc.servicesalabama@gmail.com">djc.servicesalabama@gmail.com</a>.</p>
 
         <h2 style={styles.h2}>Intellectual Property</h2>
         <p>All content included on our site, such as text, graphics, logos, images, as well as the compilation thereof, and any software used on the site, is the property of DJCServices, LLC or its suppliers and protected by copyright and international copyright laws.</p>
@@ -68,7 +68,7 @@ const TermsConditions = () => {
         <h2 style={styles.h2}>Contact Us</h2>
         <p>If you have any questions about these Terms, please contact us at:</p>
         <ul style={styles.ul}>
-          <li style={styles.li}>Phone: <a style={styles.link} href="tel:+12053373384">(205) 337-3384</a></li>
+          <li style={styles.li}>Phone: <a style={styles.link} href="tel:+12055651501">(205) 565-1501</a></li>
           <li style={styles.li}>Email: <a style={styles.link} href="mailto:djc.servicesalabama@gmail.com">djc.servicesalabama@gmail.com</a></li>
           <li style={styles.li}>Address: Helena, AL</li>
         </ul>
