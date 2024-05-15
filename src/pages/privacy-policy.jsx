@@ -99,6 +99,16 @@ const PrivacyPolicy = () => {
 
         <h2 style={styles.h2}>Links</h2>
         <p style={styles.p}>This website contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.</p>
+      
+       <h2 style={styles.h2}>Security of your Personal Information</h2>
+        <p style={styles.p}>The Company secures your personal information from unauthorized access, use, or disclosure. The Company uses the following methods for this purpose:</p>
+        <ul style={styles.ul}>
+          <li style={styles.li}>SSL Protocol</li>
+          <li style={styles.li}>Secure Payment Processing</li>
+        </ul>
+        <p style={styles.p}>When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol.</p>
+        <p style={styles.p}>We strive to take appropriate security measures to protect against unauthorized access to or alteration of your personal information. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, you acknowledge that: (a) there are security and privacy limitations inherent to the Internet that are beyond our control; and (b) the security, integrity, and privacy of any and all information and data exchanged between you and us through this site cannot be guaranteed.</p>
+      
       </div>
     </Layouts>
   );
