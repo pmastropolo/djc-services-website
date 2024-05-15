@@ -2,8 +2,6 @@ import React from "react";
 import Head from "next/head";
 import appData from "@data/app.json";
 
-
-
 import AuthContextProvider from "../contexts/authContext";
 
 import '../styles/scss/style.scss';
@@ -23,9 +21,7 @@ function MyApp({ Component, pageProps }) {
           {/* seo end */}        
       </Head>
       <AuthContextProvider>
-      
       <Component {...pageProps} />
-
       </AuthContextProvider>
     </>
   );
