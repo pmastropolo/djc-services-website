@@ -136,7 +136,7 @@ const PrivacyPolicy = () => {
         <ul style={styles.ul}>
           <li style={styles.li}>Web page: <a href="https://djcservicesllc.com/contact" style={styles.a}>https://djcservicesllc.com/contact</a></li>
           <li style={styles.li}>Email: <a href="mailto:djc.servicesalabama@gmail.com" style={styles.a}>djc.servicesalabama@gmail.com</a></li>
-          <li style={styles.li}>Phone: 2055651501</li>
+          <li style={styles.li}>Phone: <a href="tel:+12055651501" style={styles.a}>2055651501</a></li>
         </ul>
 
         <h2 style={styles.h2}>Email Communications</h2>
