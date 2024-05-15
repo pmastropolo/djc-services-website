@@ -36,13 +36,7 @@ const AccessibilityStatement = () => {
           
           <h2 style={headingStyle}>Measures to Support Accessibility</h2>
           <p>DJCServices, LLC takes the following measures to ensure accessibility of our website:</p>
-          <ul>
-            <li>Include accessibility as part of our mission statement.</li>
-            <li>Integrate accessibility into our procurement practices.</li>
-            <li>Provide continual accessibility training for our staff.</li>
-            <li>Assign clear accessibility goals and responsibilities.</li>
-            <li>Employ formal accessibility quality assurance methods.</li>
-          </ul>
+
 
           <h2 style={headingStyle}>Conformance Status</h2>
           <p>The Web Content Accessibility Guidelines (WCAG) defines requirements for designers and developers to improve accessibility for people with disabilities. It defines three levels of conformance: Level A, Level AA, and Level AAA. Our website is partially conformant with WCAG 2.1 level AA. Partially conformant means that some parts of the content do not fully conform to the accessibility standard.</p>
