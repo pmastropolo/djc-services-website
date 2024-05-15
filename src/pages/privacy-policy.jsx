@@ -72,6 +72,31 @@ const PrivacyPolicy = () => {
           <li style={styles.p}>- in any other way we may describe when you provide the information</li>
           <li style={styles.p}>- for any other purpose with your consent</li>
         </ul>
+       <h2 style={styles.h2}>Sharing Information with Third Parties</h2>
+        <p style={styles.p}>The Company does not sell, rent, or lease its customer lists to third parties.</p>
+        <p style={styles.p}>The Company may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (email, name, address, phone number) is transferred to the third party. The Company may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to the Company, and they are required to maintain the confidentiality of your information.</p>
+        <p style={styles.p}>The Company may disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on the Company or the site; (b) protect and defend the rights or property of the Company; and/or (c) act under exigent circumstances to protect the personal safety of users of the Company, or the public.</p>
+
+        <h2 style={styles.h2}>Opt-Out of Disclosure of Personal Information to Third Parties</h2>
+        <p style={styles.p}>In connection with any personal information we may disclose to a third party for a business purpose, you have the right to know:</p>
+        <ul style={styles.ul}>
+          <li style={styles.li}>The categories of personal information that we disclosed about you for a business purpose.</li>
+        </ul>
+        <p style={styles.p}>You have the right under the California Consumer Privacy Act of 2018 (CCPA) and certain other privacy and data protection laws, as applicable, to opt out of the disclosure of your personal information. If you exercise your right to opt out of the disclosure of your personal information, we will refrain from disclosing your personal information, unless you subsequently provide express authorization for the disclosure of your personal information. To opt out of the disclosure of your personal information, visit this web page <a href="https://djcservicesllc.com/contact" style={styles.a}>https://djcservicesllc.com/contact</a>.</p>
+
+        <h2 style={styles.h2}>Tracking User Behavior</h2>
+        <p style={styles.p}>The Company may keep track of the websites and pages our users visit within the Company, in order to determine what the Company services are the most popular. This data is used to deliver customized content and advertising within the Company to customers whose behavior indicates that they are interested in a particular subject area.</p>
+
+        <h2 style={styles.h2}>Automatically Collected Information</h2>
+        <p style={styles.p}>The Company may automatically collect information about your computer hardware and software. This information can include your IP address, browser type, domain names, access times, and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding the use of the Company's website.</p>
+
+        <h2 style={styles.h2}>Use of Cookies</h2>
+        <p style={styles.p}>The Company's website may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.</p>
+        <p style={styles.p}>One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalize the Company's pages, or register with Company's site or services, a cookie helps the Company to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same website, the information you previously provided can be retrieved, so you can easily use the Company's features that you customized.</p>
+        <p style={styles.p}>You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Company's services or websites you visit.</p>
+
+        <h2 style={styles.h2}>Links</h2>
+        <p style={styles.p}>This website contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.</p>
       </div>
     </Layouts>
   );
