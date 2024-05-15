@@ -17,7 +17,7 @@ const DefaultFooter = () => {
                     <div className="images d-flex-all justify-content-start">
 
                     </div>
-                    <p>Secure a free estimate <a href="tel:+12053373384" style={{ textDecoration: 'underline', color: 'inherit' }}>+1 (205) 337-3384</a></p>
+                    <p>Secure a free estimate <a href="tel:+12055651501" style={{ textDecoration: 'underline', color: 'inherit' }}>+1 (205) 565-1501</a></p>
                 </div>
                 <Link href="/contact" className="theme-btn">
                 Book My Quote <i className="fa-solid fa-angles-right" />
@@ -132,7 +132,7 @@ const DefaultFooter = () => {
     <div className="footer-col service-areas">
         <h3>Hours of Operation</h3>
         <ul>
-            <li>Sunday: 8:00am - 6:00pm</li>
+        <li>Sunday: 8:00am - 6:00pm</li>
 <li>Monday: 8:00am - 6:00pm</li>
 <li>Tuesday: 8:00am - 6:00pm</li>
 <li>Wednesday: 8:00am - 6:00pm</li>
