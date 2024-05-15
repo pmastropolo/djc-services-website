@@ -109,14 +109,6 @@ const TermsConditions = () => {
 <p>You agree that no joint venture, partnership, employment, or agency relationship exists between you and DJCServices, LLC as a result of this agreement or use of the Site. DJCServices, LLC's performance of this agreement is subject to existing laws and legal process, and nothing contained in this agreement is in derogation of DJCServices, LLC's right to comply with governmental, court and law enforcement requests or requirements relating to your use of the Site or information provided to or gathered by DJCServices, LLC with respect to such use. If any part of this agreement is determined to be invalid or unenforceable pursuant to applicable law including, but not limited to, the warranty disclaimers and liability limitations set forth above, then the invalid or unenforceable provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original provision and the remainder of the agreement shall continue in effect.</p>
 <p>Unless otherwise specified herein, this agreement constitutes the entire agreement between the user and DJCServices, LLC with respect to the Site and it supersedes all prior or contemporaneous communications and proposals, whether electronic, oral or written, between the user and DJCServices, LLC with respect to the Site. A printed version of this agreement and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to this agreement to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form. It is the express wish to the parties that this agreement and all related documents be written in English.</p>
 
-
-        
-        <ul style={styles.ul}>
-          <li style={styles.li}>Phone: <a style={styles.link} href="tel:+12055651501">(205) 565-1501</a></li>
-          <li style={styles.li}>Email: <a style={styles.link} href="mailto:djc.servicesalabama@gmail.com">djc.servicesalabama@gmail.com</a></li>
-          <li style={styles.li}>Address: Helena, AL</li>
-        </ul>
-
       </div>
     </Layouts>
   );
