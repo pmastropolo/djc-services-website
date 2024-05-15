@@ -4,7 +4,6 @@ import Link from "next/link";
 const E404 = () => {
   return (
     <Layouts noFooter>
-      {/* 404 */}
       <section className="sb-404">
         <div className="container">
           <div className="row align-items-center">
@@ -12,8 +11,6 @@ const E404 = () => {
               <div className="sb-404__num">404</div>
               <h1 className="sb-404__title">Oops! Where are we?</h1>
               <p className="sb-404__description"> We are unable to find the page you are looking for.</p> 
-
-              {/* button */} 
               <Link href="/" className="theme-btn"> 
                 <span>Back to Home</span> 
                 <i className="fa-solid fa-angles-right" />
@@ -29,7 +26,6 @@ const E404 = () => {
           </div>
         </div>
       </section>
-      {/* 404 end */}
     </Layouts>
   );
 };
