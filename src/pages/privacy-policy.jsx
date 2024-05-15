@@ -72,6 +72,8 @@ const PrivacyPolicy = () => {
           <li style={styles.p}>- in any other way we may describe when you provide the information</li>
           <li style={styles.p}>- for any other purpose with your consent</li>
         </ul>
+        <p style={styles.p}>The company may also use your personally identifiable information to inform you of other products or services available from the company and its affiliates.</p>
+        
        <h2 style={styles.h2}>Sharing Information with Third Parties</h2>
         <p style={styles.p}>The Company does not sell, rent, or lease its customer lists to third parties.</p>
         <p style={styles.p}>The Company may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (email, name, address, phone number) is transferred to the third party. The Company may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to the Company, and they are required to maintain the confidentiality of your information.</p>
