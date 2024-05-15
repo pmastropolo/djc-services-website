@@ -101,7 +101,7 @@ const About = () => {
                   4.
                 </div>
                 <h3>Finalization</h3>
-                <p>Meticulous attention to detail ensures quality and exceeds expectations.</p>
+                <p>Attention to detail ensures quality & exceeds expectations.</p>
               </div>
             </div>
           </div>
