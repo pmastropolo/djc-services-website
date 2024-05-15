@@ -22,7 +22,7 @@ const Contact = () => {
       "items": [
           {
               "title": "What's the best way to reach you?",
-              "text": "Give us a call or send us a text at (205) 337-3384. Thanks!"
+              "text": "Give us a call or send us a text at (205) 565-1501. Thanks!"
           },
           {
               "title": "Do you provide free estimates?",
