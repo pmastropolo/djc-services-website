@@ -50,7 +50,7 @@ const AccessibilityStatement = () => {
           <h2 style={headingStyle}>Feedback</h2>
           <p>We welcome your feedback on the accessibility of our website. Please let us know if you encounter accessibility barriers on our site:</p>
           <ul>
-            <li>Phone: (205) 337-3384</li>
+            <li>Phone: (205) 565-1501</li>
             <li>E-mail: <a href="mailto:djc.servicesalabama@gmail.com" style={linkStyle}>djc.servicesalabama@gmail.com</a></li>
             <li>Visitor address: Helena, AL</li>
           </ul>
@@ -74,7 +74,7 @@ const AccessibilityStatement = () => {
               <ul>
                 <li>Known limitations: Certain video content lacks captions, potentially making it difficult for users with hearing impairments to fully access the information.</li>
                 <li>Alternatives: We are actively working to add captions to all video content. In the meantime, please contact us for alternative formats.</li>
-                <li>Instructions on how to report issues: Please email us at <a href="mailto:djc.servicesalabama@gmail.com">djc.servicesalabama@gmail.com</a> or call us at <a href="tel:+12053373384">(205) 337-3384</a> to report any accessibility issues you encounter. Your feedback helps us improve our site for everyone.</li>
+                <li>Instructions on how to report issues: Please email us at <a href="mailto:djc.servicesalabama@gmail.com">djc.servicesalabama@gmail.com</a> or call us at <a href="tel:+12055651501">(205) 565-1501</a> to report any accessibility issues you encounter. Your feedback helps us improve our site for everyone.</li>
               </ul>
 
 {/* Assessment, Approval, and Formal Complaints Sections */}
