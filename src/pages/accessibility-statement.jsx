@@ -50,7 +50,7 @@ const AccessibilityStatement = () => {
           <h2 style={headingStyle}>Feedback</h2>
           <p>We welcome your feedback on the accessibility of our website. Please let us know if you encounter accessibility barriers on our site:</p>
           <ul>
-            <li>Phone: (205) 337-3384</li>
+            <li>Phone: (205) 565-1501</li>
             <li>E-mail: <a href="mailto:djc.servicesalabama@gmail.com" style={linkStyle}>djc.servicesalabama@gmail.com</a></li>
             <li>Visitor address: Helena, AL</li>
           </ul>
