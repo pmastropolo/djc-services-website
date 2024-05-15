@@ -141,6 +141,25 @@ const PrivacyPolicy = () => {
 
         <h2 style={styles.h2}>Email Communications</h2>
         <p style={styles.p}>From time to time, the Company may contact you via email for the purpose of providing announcements, promotional offers, alerts, confirmations, surveys, and/or other general communication. In order to improve our services, we may receive a notification when you open an email from the Company or click on a link therein.</p>
+
+  <p style={styles.p}>If you would like to stop receiving marketing or promotional communications via email from the Company, you may opt out of such communications by <a href="#" style={styles.a}>clicking on the unsubscribe button</a>.</p>
+
+        <h2 style={styles.h2}>External Data Storage Sites</h2>
+        <p style={styles.p}>We may store your data on servers provided by third-party hosting vendors with whom we have contracted.</p>
+
+        <h2 style={styles.h2}>Changes to This Statement</h2>
+        <p style={styles.p}>The Company reserves the right to change this Policy from time to time. For example, when there are changes in our services, changes in our data protection practices, or changes in the law. When changes to this Policy are significant, we will inform you. You may receive a notice by sending an email to the primary email address specified in your account, by placing a prominent notice on our DJCServices, LLC, and/or by updating any privacy information. Your continued use of the website and/or services available after such modifications will constitute your: (a) acknowledgment of the modified Policy; and (b) agreement to abide and be bound by that Policy.</p>
+
+        <h2 style={styles.h2}>Contact Information</h2>
+        <p style={styles.p}>The Company welcomes your questions or comments regarding this Policy. If you believe that the Company has not adhered to this Policy, please contact the Company at:</p>
+        <p style={styles.p}>
+          DJCServices, LLC<br/>
+          1054 Chateau Dr<br/>
+          Helena, Alabama 35080<br/>
+        </p>
+        <p style={styles.p}>Email Address: <a href="mailto:djc.servicesalabama@gmail.com" style={styles.a}>djc.servicesalabama@gmail.com</a></p>
+        <p style={styles.p}>Phone Number: 2055651501</p>
+        <p style={styles.p}>Effective as of May 15, 2024</p>
         
       </div>
     </Layouts>
