@@ -208,7 +208,7 @@ const DefaultHeader = ({ contactButton, cartButton }) => {
             </figure>
 
             <h3>Get in touch</h3>
-            <p className="num">(205) 337-3384 </p>
+            <p className="num">(205) 565-1501 </p>
             <p className="adrs">Helena, AL </p>
 
             <div className="social-medias">
