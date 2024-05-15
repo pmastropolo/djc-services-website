@@ -11,9 +11,11 @@ const TermsConditions = () => {
     h1: {
       color: '#2C3E50',
     },
-    h2: {
-      color: '#34495E',
-      marginBottom: '10px',
+ h2: {
+    fontSize: '24px',
+    fontWeight: 'bold',
+    margin: '20px 0',
+    color: '#333',
     },
     p: {
       lineHeight: '1.6',
