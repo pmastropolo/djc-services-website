@@ -12,7 +12,7 @@ import CallToActionSection from "@components/sections/CallToAction";
 import ContactFormSection from "@components/sections/ContactForm";
 import LatestPosts2Section from "@components/sections/LatestPosts2";
 
-const ProjectsSlider = dynamic( () => import("@components/sliders/Projects"), { ssr: false } );
+const ProjectsSlider = dynamic(() => import("@components/sliders/Projects"), { ssr: false });
 
 const Home3 = (props) => {
   return (
@@ -29,6 +29,7 @@ const Home3 = (props) => {
     </Layouts>
   );
 };
+
 export default Home3;
 
 export async function getStaticProps() {
@@ -38,7 +39,7 @@ export async function getStaticProps() {
   return {
     props: {
       posts: allPosts,
-      projects: allProjects
-    }
-  }
+      projects: allProjects,
+    },
+  };
 }
