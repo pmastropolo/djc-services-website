@@ -11,17 +11,17 @@ const TermsConditions = () => {
       lineHeight: '1.8',
     },
     h1: {
-      color: '#1F3A93',
+      color: '#333333',
       fontSize: '36px',
       fontWeight: '700',
-      borderBottom: '2px solid #1F3A93',
+      borderBottom: '2px solid #333333',
       paddingBottom: '10px',
       marginBottom: '30px',
     },
     h2: {
       fontSize: '28px',
       fontWeight: '600',
-      color: '#1F3A93',
+      color: '#333333',
       marginTop: '30px',
       marginBottom: '20px',
     },
@@ -30,13 +30,17 @@ const TermsConditions = () => {
       marginBottom: '20px',
     },
     a: {
-      color: '#E74C3C',
+      color: '#3498db',
       textDecoration: 'none',
       transition: 'color 0.3s',
     },
     aHover: {
-      color: '#C0392B',
-    }
+      color: '#2980b9',
+    },
+    highlight: {
+      color: '#27ae60',
+      fontWeight: 'bold',
+    },
   };
 
   return (
