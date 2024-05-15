@@ -2,22 +2,20 @@
     text-align: center;
 }
 
-
 .s p {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    margin: 0; /* Optionally reset margin */
+    margin: 0;
 }
 
 @media only screen and (max-width: 768px) {
     .s p {
-        white-space: normal; /* Allow text to wrap on smaller screens */
+        white-space: normal; 
         overflow: visible;
-        text-overflow: clip; /* Display full text without ellipsis on smaller screens */
+        text-overflow: clip;
     }
 }
-
 
 @media (max-width: 992px) {
     .services-nav, .service-content {
@@ -25,20 +23,20 @@
     }
 
     .services-nav {
-        margin-bottom: 20px;  /* Add some space between the nav and content */
+        margin-bottom: 20px;
     }
 
     .nav-pills .nav-link {
-        padding: 10px; /* Increase padding for better touch targets */
+        padding: 10px;
     }
 }
 
 @media (max-width: 768px) {
     .services-nav {
-        text-align: center; /* Center align the navigation texts for a better mobile view */
+        text-align: center;
     }
 
     .nav-pills .nav-item {
-        display: block; /* Stack the nav items vertically */
+        display: block;
     }
 }
