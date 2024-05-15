@@ -88,7 +88,7 @@ const AccessibilityStatement = () => {
 <h2 style={headingStyle}>Formal Approval of This Accessibility Statement</h2>
 <p>This Accessibility Statement is approved by:</p>
 <ul>
-  <li>DJCServices LLC</li>
+  <li>DJCServices, LLC</li>
   <li>Dennis Carlisle | Owner of DJCservices</li>
   <li>Date: 05/06/2024</li>
 </ul>
