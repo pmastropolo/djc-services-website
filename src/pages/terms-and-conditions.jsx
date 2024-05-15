@@ -48,17 +48,13 @@ const TermsConditions = () => {
 <p>Your use of <a href="https://djcservicesllc.com/">https://djcservicesllc.com/</a> is subject to DJCServices, LLC's Privacy Policy. Please review our Privacy Policy, which also governs the Site and informs users of our data collection practices.</p>
 
 <h2 style={styles.h2}>Electronic Communications</h2>
-<p>Visiting <a href="https://djcservicesllc.com/">https://djcservicesllc.com/</a> or sending emails to DJCServices, LLC constitutes electronic communications. You consent to receive electronic communications and you agree that all agreements, notices, disclosures, and other communications that we provide to you electronically, via email and on the Site, satisfy any legal requirement that such communications be in writing.
-</p>
+<p>Visiting <a href="https://djcservicesllc.com/">https://djcservicesllc.com/</a> or sending emails to DJCServices, LLC constitutes electronic communications. You consent to receive electronic communications and you agree that all agreements, notices, disclosures, and other communications that we provide to you electronically, via email and on the Site, satisfy any legal requirement that such communications be in writing.</p>
 
 <h2 style={styles.h2}>Your Account</h2>
 <p>If you use this site, you are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password. You may not assign or otherwise transfer your account to any other person or entity. You acknowledge that DJCServices, LLC is not responsible for third-party access to your account that results from theft or misappropriation of your account. DJCServices, LLC and its associates reserve the right to refuse or cancel service, terminate accounts, or remove or edit content in our sole discretion.</p>
 
 <h2 style={styles.h2}>Children Under Thirteen</h2>
-<p>
-  DJCServices, LLC does not knowingly collect, either online or offline, personal information from persons under the age of thirteen. If you are under 18, you may use <a href="https://djcservicesllc.com/">https://djcservicesllc.com/</a> only with permission of a parent or guardian.
-</p>
-
+<p>DJCServices, LLC does not knowingly collect, either online or offline, personal information from persons under the age of thirteen. If you are under 18, you may use <a href="https://djcservicesllc.com/">https://djcservicesllc.com/</a> only with permission of a parent or guardian.</p>
 
 <h2 style={styles.h2}>Links to Third Party Sites/Third Party Services</h2>
 <p><a href="https://djcservicesllc.com/">https://djcservicesllc.com/</a> may contain links to other websites ("Linked Sites"). The Linked Sites are not under the control of DJCServices, LLC and DJCServices, LLC is not responsible for the contents of any Linked Site, including without limitation any link contained in a Linked Site, or any changes or updates to a Linked Site. DJCServices, LLC is providing these links to you only as a convenience, and the inclusion of any link does not imply endorsement by DJCServices, LLC of the site or any association with its operators.</p>
@@ -74,34 +70,18 @@ const TermsConditions = () => {
 <p>By way of example, and not as a limitation, you agree that when using a Communication Service, you will not: defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others; publish, post, upload, distribute or disseminate any inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topic, name, material or information; upload files that contain software or other material protected by intellectual property laws (or by rights of privacy of publicity) unless you own or control the rights thereto or have received all necessary consents; upload files that contain viruses, corrupted files, or any other similar software or programs that may damage the operation of another’s computer; advertise or offer to sell or buy any goods or services for any business purpose, unless such Communication Service specifically allows such messages; conduct or forward surveys, contests, pyramid schemes or chain letters; download any file posted by another user of a Communication Service that you know, or reasonably should know, cannot be legally distributed in such manner; falsify or delete any author attributions, legal or other proper notices or proprietary designations or labels of the origin or source of software or other material contained in a file that is uploaded, restrict or inhibit any other user from using and enjoying the Communication Services; violate any code of conduct or other guidelines which may be applicable for any particular Communication Service; harvest or otherwise collect information about others, including e-mail addresses, without their consent; violate any applicable laws or regulations.</p>
 
 <h2 style={styles.h2}>Monitoring and Disclosure</h2>
-<p>
-  DJCServices, LLC has no obligation to monitor the Communication Services. However, DJCServices, LLC reserves the right to review materials posted to a Communication Service and to remove any materials in its sole discretion. DJCServices, LLC reserves the right to terminate your access to any or all of the Communication Services at any time without notice for any reason whatsoever.
-</p>
-<p>
-  DJCServices, LLC reserves the right at all times to disclose any information as necessary to satisfy any applicable law, regulation, legal process or governmental request, or to edit, refuse to post or to remove any information or materials, in whole or in part, in DJCServices, LLC's sole discretion.
-</p>
-<p>
-  Always use caution when giving out any personally identifying information about yourself or your children in any Communication Service. DJCServices, LLC does not control or endorse the content, messages or information found in any Communication Service and, therefore, DJCServices, LLC specifically disclaims any liability with regard to the Communication Services and any actions resulting from your participation in any Communication Service. Managers and hosts are not authorized DJCServices, LLC spokespersons, and their views do not necessarily reflect those of DJCServices, LLC.
-</p>
-<p>
-  Materials uploaded to a Communication Service may be subject to posted limitations on usage, reproduction and/or dissemination. You are responsible for adhering to such limitations if you upload the materials.
-</p>
+<p>DJCServices, LLC has no obligation to monitor the Communication Services. However, DJCServices, LLC reserves the right to review materials posted to a Communication Service and to remove any materials in its sole discretion. DJCServices, LLC reserves the right to terminate your access to any or all of the Communication Services at any time without notice for any reason whatsoever.</p>
+<p>DJCServices, LLC reserves the right at all times to disclose any information as necessary to satisfy any applicable law, regulation, legal process or governmental request, or to edit, refuse to post or to remove any information or materials, in whole or in part, in DJCServices, LLC's sole discretion.</p>
+<p>Always use caution when giving out any personally identifying information about yourself or your children in any Communication Service. DJCServices, LLC does not control or endorse the content, messages or information found in any Communication Service and, therefore, DJCServices, LLC specifically disclaims any liability with regard to the Communication Services and any actions resulting from your participation in any Communication Service. Managers and hosts are not authorized DJCServices, LLC spokespersons, and their views do not necessarily reflect those of DJCServices, LLC.</p>
+<p>Materials uploaded to a Communication Service may be subject to posted limitations on usage, reproduction and/or dissemination. You are responsible for adhering to such limitations if you upload the materials.</p>
 
 <h2 style={styles.h2}>Materials Provided to <a href="https://djcservicesllc.com/">https://djcservicesllc.com/</a> or Posted on Any DJCServices, LLC Web Page</h2>
-<p>
-  DJCServices, LLC does not claim ownership of the materials you provide to <a href="https://djcservicesllc.com/">https://djcservicesllc.com/</a> (including feedback and suggestions) or post, upload, input or submit to any DJCServices, LLC Site or our associated services (collectively "Submissions"). However, by posting, uploading, inputting, providing or submitting your Submission you are granting DJCServices, LLC, our affiliated companies and necessary sublicensees permission to use your Submission in connection with the operation of their Internet businesses including, without limitation, the rights to: copy, distribute, transmit, publicly display, publicly perform, reproduce, edit, translate and reformat your Submission; and to publish your name in connection with your Submission.
-</p>
-<p>
-  No compensation will be paid with respect to the use of your Submission, as provided herein. DJCServices, LLC is under no obligation to post or use any Submission you may provide and may remove any Submission at any time in DJCServices, LLC's sole discretion.
-</p>
-<p>
-  By posting, uploading, inputting, providing or submitting your Submission you warrant and represent that you own or otherwise control all of the rights to your Submission as described in this section including, without limitation, all the rights necessary for you to provide, post, upload, input or submit the Submissions.
-</p>
+<p>DJCServices, LLC does not claim ownership of the materials you provide to <a href="https://djcservicesllc.com/">https://djcservicesllc.com/</a> (including feedback and suggestions) or post, upload, input or submit to any DJCServices, LLC Site or our associated services (collectively "Submissions"). However, by posting, uploading, inputting, providing or submitting your Submission you are granting DJCServices, LLC, our affiliated companies and necessary sublicensees permission to use your Submission in connection with the operation of their Internet businesses including, without limitation, the rights to: copy, distribute, transmit, publicly display, publicly perform, reproduce, edit, translate and reformat your Submission; and to publish your name in connection with your Submission.</p>
+<p>No compensation will be paid with respect to the use of your Submission, as provided herein. DJCServices, LLC is under no obligation to post or use any Submission you may provide and may remove any Submission at any time in DJCServices, LLC's sole discretion.</p>
+<p>By posting, uploading, inputting, providing or submitting your Submission you warrant and represent that you own or otherwise control all of the rights to your Submission as described in this section including, without limitation, all the rights necessary for you to provide, post, upload, input or submit the Submissions.</p>
 
 <h2 style={styles.h2}>Third Party Accounts</h2>
-<p>
-  You will be able to connect your DJCServices, LLC account to third party accounts. By connecting your DJCServices, LLC account to your third party account, you acknowledge and agree that you are consenting to the continuous release of information about you to others (in accordance with your privacy settings on those third party sites). If you do not want information about you to be shared in this manner, do not use this feature.
-</p>
+<p>You will be able to connect your DJCServices, LLC account to third party accounts. By connecting your DJCServices, LLC account to your third party account, you acknowledge and agree that you are consenting to the continuous release of information about you to others (in accordance with your privacy settings on those third party sites). If you do not want information about you to be shared in this manner, do not use this feature.</p>
 
 
 
