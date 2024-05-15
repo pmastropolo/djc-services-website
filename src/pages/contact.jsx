@@ -39,7 +39,6 @@ const Contact = () => {
       ]
     };
   
-
     return (
         <Layouts>
           <PageBanner pageTitle={"Contact"} pageDesc={"No job too big or small just give me a call!"} />
