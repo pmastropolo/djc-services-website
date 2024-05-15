@@ -132,8 +132,8 @@ const DefaultHeader = ({ contactButton, cartButton }) => {
                           </>
                         }
                         {contactButton != 1 &&
-                        <a href="tel:+(205)337-3384 " className="theme-btn">
-                          (205) 337-3384  
+                        <a href="tel:+(205)565-1501 " className="theme-btn">
+                          (205) 565-1501  
                           <i>
                             <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width="40" height="62" viewBox="0 0 40 62">
                               <defs>
