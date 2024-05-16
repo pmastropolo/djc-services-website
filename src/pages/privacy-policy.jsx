@@ -158,7 +158,7 @@ const PrivacyPolicy = () => {
           Helena, Alabama 35080<br/>
         </p>
         <p style={styles.p}>Email Address: <a href="mailto:djc.servicesalabama@gmail.com" style={styles.a}>djc.servicesalabama@gmail.com</a></p>
-        <p style={styles.p}>Phone Number: 2055651501</p>
+        <p style={styles.p}>Phone Number: <a href="tel:+12055651501" style={styles.a}>2055651501</a></p>
         <p style={styles.p}>Effective as of May 15, 2024</p>
         
       </div>
