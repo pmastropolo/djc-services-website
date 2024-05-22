@@ -38,7 +38,6 @@ class MyDocument extends Document {
               `,
             }}
           />
-  <script src="https://d3ey4dbjkt2f6s.cloudfront.net/assets/static_link/work_request_embed_snippet.js" clienthub_id="a87fcf00-1404-405b-acdb-349db82e12ee" form_url="https://clienthub.getjobber.com/client_hubs/a87fcf00-1404-405b-acdb-349db82e12ee/public/work_request/embedded_work_request_form"></script>
 
           {/* Mailchimp */}
           <Script 
