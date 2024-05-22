@@ -3,20 +3,6 @@ import Layouts from "@layouts/Layouts";
 import Accordion from 'react-bootstrap/Accordion';
 import appData from "@data/app.json";
 
-const MailchimpForm = () => {
-    return (
-        <div className="mailchimp-form-container">
-        <iframe 
-          src="https://eepurl.com/iO17SU" 
-          width="100%" 
-          height="1370px" 
-          style={{ border: "none", overflow: "hidden" }}
-          scrolling="no">
-        </iframe>
-      </div>
-    );
-  };
-
 const Contact = () => {
     const faqData = {
       "items": [
@@ -49,7 +35,11 @@ const Contact = () => {
                   <div className="data">
                     <div className="form-container">
 
-                      <MailchimpForm /> 
+                      {/* Jobber Form */}
+                      <div id="a87fcf00-1404-405b-acdb-349db82e12ee"></div>
+                      <link rel="stylesheet" href="https://d3ey4dbjkt2f6s.cloudfront.net/assets/external/work_request_embed.css" media="screen" />
+                      <script src="https://d3ey4dbjkt2f6s.cloudfront.net/assets/static_link/work_request_embed_snippet.js" clienthub_id="a87fcf00-1404-405b-acdb-349db82e12ee" form_url="https://clienthub.getjobber.com/client_hubs/a87fcf00-1404-405b-acdb-349db82e12ee/public/work_request/embedded_work_request_form"></script>
+                    </div>
                     </div>
                   </div>
                 </div>
