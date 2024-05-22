@@ -3,6 +3,19 @@ import Layouts from "@layouts/Layouts";
 import Accordion from 'react-bootstrap/Accordion';
 import appData from "@data/app.json";
 
+const MailchimpForm = () => {
+    return (
+        <div className="mailchimp-form-container">
+        <iframe 
+          src="https://eepurl.com/iO17SU" 
+          width="100%" 
+          height="1370px" 
+          style={{ border: "none", overflow: "hidden" }}
+          scrolling="no">
+        </iframe>
+      </div>
+    );
+  };
 
 const Contact = () => {
     const faqData = {
@@ -36,8 +49,7 @@ const Contact = () => {
                   <div className="data">
                     <div className="form-container">
 
-                      <div id="a87fcf00-1404-405b-acdb-349db82e12ee"></div>
-                      <link rel="stylesheet" href="https://d3ey4dbjkt2f6s.cloudfront.net/assets/external/work_request_embed.css" media="screen" />
+          <MailchimpForm /> 
                     
                     </div>
                     </div>
